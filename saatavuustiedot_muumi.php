@@ -232,7 +232,7 @@
           <a href="/finna/">Koti</a><span></span>
           <!-- START of: Record/breadcrumbs.tpl -->
 
-  <a href="/finna/hakutulokset_muumi">Haku: <?php print $_GET['lookfor'] ?></a>
+  <a href="/finna/hakutulokset_muumi?lookfor=<?php print $_GET['lookfor'] ?>">Haku: <?php print $_GET['lookfor'] ?></a>
   <span>&gt;</span>
 <em>Muumi</em> 
 
