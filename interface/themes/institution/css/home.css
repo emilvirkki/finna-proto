@@ -1,0 +1,208 @@
+/****** Homepage ******/
+
+/* temp style until the browse has been figured out to home page */
+
+.searchHomeContent {
+    padding: 3em 0 3em 0;
+    margin: 0 auto;
+    text-align: left;
+}
+.header-home {
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #ddd;
+}
+
+.main-home {
+    overflow-x: hidden;
+}
+
+/*** Logo ***/
+
+.searchHomeLogoMetaLib,
+.searchHomeLogo {
+    display: block;
+    margin: 3em 0 1em;
+    text-align: center;
+}
+.searchHomeLogo img {
+    display: block;
+    margin: 1em auto 1em auto;
+}
+
+/* Background of the logo image */
+.header-home {
+    background-color: #f3f3f3;
+    background-size: cover;
+    background-position: center;
+}
+.searchHomeContent {
+    margin: 0 auto;
+    padding: 3em 0 3em 0;
+    text-align: left;
+}
+
+/** Search Box **/
+
+.searchHome .searchbox {
+    margin: 0;
+}
+
+.searchHomeForm {
+/*
+    background-color: #E6EFC2;
+    -moz-border-radius: 5px 5px 5px 5px;
+    border: 2px solid #C6D880;
+    padding:2em 0;
+*/
+    margin: 0 auto;
+    text-align: left;
+/*
+    font-size: 12pt;
+*/
+    color: #264409;
+}
+div.searchHomeForm div.searchform {
+    float:none;
+    margin:0 auto;
+}
+div.searchHomeForm div.searchform #searchForm {
+    width:506px;
+    margin:0 auto;
+}
+
+.searchHomeForm #searchForm_input {
+    width: 200px;
+/*
+    background: url("../images/searchbox.png") no-repeat scroll -2px -3px transparent;
+    border: none;
+    color: #333333;
+    height: 16px;
+    width: 220px;
+    padding: 10px 4px 8px 8px;
+*/
+}
+.searchHomeForm div.styled_select { /* to get rid of unstylable down-arrow */
+/*
+    border-right: 1px solid #969696;
+    width: 145px;
+    height: 34px;
+    overflow: hidden;
+    background: none no-repeat right transparent;
+*/
+}
+.searchHomeForm .searchForm_select {
+/*
+    background: url("../images/searchselect_bg.png") transparent no-repeat;
+    border: none;
+    color: #555555;
+    cursor: pointer;
+    height: 34px;
+    width: 169px;
+    padding: 8px 9px;
+*/
+/*    -webkit-border-radius: 0;*/ /* to fix round left corners on mac webkit-browsers */
+}
+
+/** Dropdown **/
+.searchHomeForm .dropdown dd, .searchHomeForm .dropdown dt, .searchHomeForm .dropdown ul {
+/*
+    font-size: .9em;
+*/
+}
+
+.searchHomeForm #searchForm_searchButton {
+/*
+    background: url("../images/searchbox.png") no-repeat scroll -240px -3px transparent;
+    border: none;
+    color: #555555;
+    cursor: pointer;
+    height: 34px;
+    width: 89px;
+    margin-left: 5px;
+*/
+}
+
+.searchHomeForm #searchForm_searchButton:hover {
+/*
+    background: url("../images/searchbox.png") no-repeat scroll -240px -38px transparent;
+    color: #333333;
+*/
+}
+.searchHomeForm a, .searchHomeForm a:hover {
+/*
+    color:#264409;
+*/
+}
+
+
+/*** Custom content ***/
+
+.homeCustomContent {
+    background-color: #f3f3f3;
+    padding: 3em 24px 4em;
+}
+
+.homeCustomCol1, .homeCustomCol2, .homeCustomCol3 {
+    float: left;
+    margin-left: 24px;
+}
+
+.homeCustomCol1 {
+    margin-left: 0;
+    width: 340px;
+}
+/*
+.homeCustomContent .homeCustomCol1 h2 {
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 1em;
+}
+.homeCustomContent .homeCustomCol1 p {
+    line-height: 1.25em;
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+}
+*/
+.homeCustomCol2 {
+    margin-top: .8em;
+    width: 304px;
+}
+.homeCustomContent .homeCustomCol2 ul {
+    padding: 0;
+    margin: 0;
+}
+.homeCustomContent .homeCustomCol2 ul li {
+    float: left;
+    width: 140px;
+    margin: 0.5em 10px 0.5em 0;
+    font-size: 1em;
+}
+.homeCustomContent .homeCustomCol2 .iconlabel {
+    font-size: 0.9em;
+    margin-right: 0;
+}
+.homeCustomContent .homeCustomCol3 {
+    width: 210px;
+}
+
+/*** Browse Search ***/
+
+.searchHomeBrowse {
+    margin-left:auto;
+    margin-right:auto;
+    width:950px;
+}
+.searchHomeBrowseHeader h5 {
+    border-bottom: 1px solid #94c632;
+    margin-bottom:12px;
+}
+.searchHomeBrowseInner div {
+    margin-left:0;    
+}
+
+.searchHomeBrowse ul {
+    list-style-type: none;
+    padding:0;
+}
+

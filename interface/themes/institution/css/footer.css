@@ -1,0 +1,39 @@
+/****** Footer ******/
+
+.footer {
+    padding: .8em 12px 0;
+}
+.main-home .footer {
+    padding: .8em 24px 0;
+}
+#footerCol1, #footerCol2, #footerCol3 {
+	float:left;
+	padding-right: 12px;
+	width: 198px;
+}
+
+.footer ul {
+    padding-left: 0;
+}
+
+#footerCol4 {
+	float:left;
+	width: 282px;
+}
+#footerCol4 a {
+    display: block;
+    margin-top: 1em;
+}
+
+.footer .KDK-logo {
+    background: url('../images/kdk-logo_small.png') no-repeat left center;
+    height: 31px;
+    line-height: 29px;
+    padding-left: 5.4em;
+}
+.footer .vufind-logo {
+    background: url('../images/vufind-logo_small.png') no-repeat left center;
+    height: 33px;
+    line-height: 30px;
+    padding-left: 7.5em;
+}
