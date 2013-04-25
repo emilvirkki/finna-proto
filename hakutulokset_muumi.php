@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi" lang="fi"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <title>Finna - Hakutulokset - muumi</title>
+    <title>Finna - Hakutulokset - <?php print $_GET[''] ?></title>
     <link rel="shortcut icon" href="/finna/interface/themes/national/images/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon-precomposed" href="/finna/interface/themes/national/images/apple-touch-icon.png">
 
@@ -231,7 +231,7 @@
         <div class="breadcrumbinner">
           <a href="/finna/">Koti</a><span></span>
           <!-- START of: Search/breadcrumbs.tpl -->
-<em>Haku: muumi</em>
+<em>Haku: <?php print $_GET['lookfor'] ?></em>
 
 <!-- END of: Search/breadcrumbs.tpl -->        </div>
       </div>
@@ -245,12 +245,12 @@
 
 <div id="searchFormContainer" class="searchform last content">
 
-  <form method="get" action="/Search/Results" name="searchForm" id="searchForm" class="search">
+  <form method="get" action="/finna/hakutulokset_muumi" name="searchForm" id="searchForm" class="search">
     <h2 class="hidden-visually">Haku</h2>
     <div class="searchFormWrapper grid_16">
       <div class="overLabelWrapper">
         <label style="text-indent: -10000px;" for="searchForm_input" id="searchFormLabel" class="labelOver normal">Hae…</label>
-        <div style="position: relative;" class="undefined_div"><input aria-haspopup="true" aria-autocomplete="list" role="textbox" autocomplete="off" id="searchForm_input" name="lookfor" value="muumi" class="last autocomplete typeSelector:searchForm_type clearable mainFocus ui-autocomplete-input" title="Hae…" type="text"><a style="position: absolute; cursor: pointer; top: 7.5px; left: 341.5px;" class="clear_input">×</a></div>
+        <div style="position: relative;" class="undefined_div"><input aria-haspopup="true" aria-autocomplete="list" role="textbox" autocomplete="off" id="searchForm_input" name="lookfor" value="<?php print $_GET['lookfor'] ?>" class="last autocomplete typeSelector:searchForm_type clearable mainFocus ui-autocomplete-input" title="Hae…" type="text"><a style="position: absolute; cursor: pointer; top: 7.5px; left: 341.5px;" class="clear_input">×</a></div>
       </div>
               <div class="styled_select">
         <dl id="styled_searchForm_filter0" class="dropdown searchForm_filter"><dt><a href="#">Koko tietokannasta<span class="value">-</span></a></dt><dd><ul style="display: none;"><li><a href="#" class="big">Koko tietokannasta<span class="value">-</span></a></li><li><a href="#" class="big">Arkistoista<span class="value">archives</span></a></li><li><a href="#" class="big">Kirjastoista<span class="value">libraries</span></a></li><li><a href="#" class="big">Museoista<span class="value">museums</span></a></li><li><a href="#" class="big">Asiakirja<span class="value">format_Document</span></a></li><li><a href="#" class="big">Esine<span class="value">format_PhysicalObject</span></a></li><li><a href="#" class="big">Kartta<span class="value">format_Map</span></a></li><li><a href="#" class="big">Kirja<span class="value">format_Book</span></a></li><li><a href="#" class="big">Kuva<span class="value">format_Image</span></a></li><li><a href="#" class="big">Lehti/Artikkeli<span class="value">format_Journal</span></a></li><li><a href="#" class="big">Muu<span class="value">format_Other</span></a></li><li><a href="#" class="big">Opinnäyte<span class="value">format_Thesis</span></a></li><li><a href="#" class="big">Taideteos<span class="value">format_WorkOfArt</span></a></li><li><a href="#" class="big">Tietokanta<span class="value">format_Database</span></a></li><li><a href="#" class="big">Video<span class="value">format_Video</span></a></li><li><a href="#" class="big">Ääni<span class="value">format_Sound</span></a></li></ul></dd></dl><select style="display: none;" id="searchForm_filter" class="searchForm_styled stylingDone" name="prefilter">
@@ -333,7 +333,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="resultTerms">
     <div class="content">
             <h1 class="searchTerms grid_24">
-              <span class="hidden-visually">Hakutulokset: </span>muumi<span class="hidden-visually">, yhteensä 907, näytetään 1-20</span>
+              <span class="hidden-visually">Hakutulokset: </span><?php print $_GET['lookfor'] ?><span class="hidden-visually">, yhteensä 907, näytetään 1-20</span>
                             </h1>
           </div>   </div>   
   <div class="resultRecommendations">
@@ -593,7 +593,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="resultColumn2 grid_11">
 
     <h2 class="resultItemLine1">
-      <a href="/finna/Record/jykdok.358930" class="title"><span class="highlight">Muumi</span>
+      <a href="/finna/saatavuustiedot_muumi?lookfor=<?php print $_GET['lookfor'] ?>" class="title"><span class="highlight">Muumi</span>
         <span class="hidden-visually">, Aikakauslehti, 1991</span>
       </a>
     </h2>
@@ -609,7 +609,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...<span class="highlight">muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        <a href="/finna/Record/jykdok.358930" class="title">Jykdok</a> (Muut: <a href="/finna/Record/fennica.232936" class="title">Fennica</a>)        <br>
+        <a href="/finna/saatavuustiedot_muumi?lookfor=<?php print $_GET['lookfor'] ?>" class="title">Jykdok</a> (Muut: <a href="/finna/Record/fennica.232936" class="title">Fennica</a>)        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationjykdok.358930">
                       <div style="display: none;" class="hide noLoad" id="statusjykdok.358930"><span class="checkedout">Ei saatavissa</span></div>

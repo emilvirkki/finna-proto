@@ -261,7 +261,7 @@ tukkipinoja. Pielisjärvi (Lieksa), Pohjois-Karjala.</p>
 
 <div id="searchFormContainer" class="searchform last content">
 
-  <form method="get" action="/Search/Results" name="searchForm" id="searchForm" class="search">
+  <form method="get" action="/finna/hakutulokset_muumi" name="searchForm" id="searchForm" class="search">
     <h2 class="hidden-visually">Haku</h2>
     <div class="searchFormWrapper grid_16">
       <div class="overLabelWrapper">

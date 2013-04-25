@@ -232,7 +232,7 @@
           <a href="/finna/">Koti</a><span></span>
           <!-- START of: Record/breadcrumbs.tpl -->
 
-  <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list#recordjykdok.358930">Haku: muumi</a>
+  <a href="/finna/hakutulokset_muumi">Haku: <?php print $_GET['lookfor'] ?></a>
   <span>&gt;</span>
 <em>Muumi</em> 
 
@@ -248,7 +248,7 @@
 
 <div id="searchFormContainer" class="searchform last content">
 
-  <form method="get" action="/Search/Results" name="searchForm" id="searchForm" class="search">
+  <form method="get" action="/finna/hakutulokset_muumi" name="searchForm" id="searchForm" class="search">
     <h2 class="hidden-visually">Haku</h2>
     <div class="searchFormWrapper grid_16">
       <div class="overLabelWrapper">
