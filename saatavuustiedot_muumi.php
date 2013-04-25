@@ -140,9 +140,9 @@
 
       <div id="nav" class="nav">
         <div class="content">
+          <h2 class="hidden-visually">Valikko</h2>
           <ul id="headerMenu" class="grid_19">
             <!-- START of: header-menu.fi.tpl -->
-
 <li class="menuHome"><a href="/finna/"><span></span></a></li>
 
 <li class="menuAbout"><a href="/finna/Content/about"><span>Tietoa</span></a></li>
@@ -196,6 +196,7 @@
 <!-- END of: login-element.tpl -->
 <!-- END of: header-menu.fi.tpl -->          </ul>
           <div class="lang">
+            <h2 class="hidden-visually">Kielen valinta</h2>
                         <ul>
                                                                               <li><a href="/finna/Record/jykdok.358930?lng=sv">
                     Svenska</a>
@@ -248,6 +249,7 @@
 <div id="searchFormContainer" class="searchform last content">
 
   <form method="get" action="/Search/Results" name="searchForm" id="searchForm" class="search">
+    <h2 class="hidden-visually">Haku</h2>
     <div class="searchFormWrapper grid_16">
       <div class="overLabelWrapper">
         <label style="text-indent: 0px;" for="searchForm_input" id="searchFormLabel" class="labelOver normal">Hae…</label>
@@ -363,6 +365,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
                     </div>
       
     <div id="resultToolbar" class="toolbar">
+      <h2 class="hidden-visually">Tietuetyökalut</h2>
       <ul>
         <li id="saveLink"><a href="/finna/Record/jykdok.358930/Save" class="saveRecord fav" id="saveRecordjykdok.358930" title="Lisää suosikkeihin">Lisää suosikkeihin</a></li>
         
@@ -370,6 +373,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
                 <li><a href="/finna/Record/jykdok.358930/Feedback" class="feedbackRecord mail" id="feedbackRecordjykdok.358930" title="Lähetä palautetta tietueesta">Lähetä palautetta tietueesta</a></li>
                         		  <li id="addThis">
             <div class="addthis_toolbox addthis_default_style ">
+              <h3 class="hidden-visually">Jaa tietue</h3>
               <a href="/finna/Record/jykdok.358930/Email" class="mail" id="mailRecordjykdok.358930" title="Lähetä sähköpostilla"></a>
               <a href="#" title="Facebook" class="icon addthis_button_facebook at300b"><span class="at16nc at300bs at15nc at15t_facebook at16t_facebook"><span class="at_a11y">Share on facebook</span></span></a>
               <a href="#" title="Tweet" class="icon addthis_button_twitter at300b"><span class="at16nc at300bs at15nc at15t_twitter at16t_twitter"><span class="at_a11y">Share on twitter</span></span></a>
@@ -379,6 +383,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
                                         <li>
           <a href="/finna/Record/jykdok.358930/Export?style=RefWorks" class="export exportMenu">Vie tietue</a>
           <ul class="menu offscreen" id="exportMenu">
+            <h3 class="hidden-visually">Vie viitetiedot</h3>
                       <li><a target="RefWorksMain" href="/finna/Record/jykdok.358930/Export?style=RefWorks">Vienti:  RefWorks</a></li>
                       <li><a href="/finna/Record/jykdok.358930/Export?style=EndNote">Vienti:  EndNote</a></li>
                       <li><a href="/finna/Record/jykdok.358930/Export?style=MARC">Vienti:  MARC</a></li>
@@ -403,7 +408,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
       
   
     
-    <h1 class="recordTitle">Muumi    </h1>
+    <h1 class="recordTitle">Muumi<span class="hidden-visually">, Aikakauslehti, 1991</span></h1>
   
   
   
@@ -541,7 +546,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
    
   <div id="resultSidebar" class="last grid_6 prefix_1">
     <div class="similarItems" id="similarItemsjykdok.358930"><div class="sidegroup">
-  <h4>Samankaltaisia teoksia</h4>
+  <h2>Samankaltaisia teoksia</h2>
     <ul class="similar">
         <li>
               <a href="/finna/Record/jykdok.1078228" title="Muumi">Muumi</a>
@@ -567,7 +572,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   </div>
 
 <div class="sidegroup">
-  <h4>Muut painokset</h4>
+  <h2>Muut painokset</h2>
   <ul class="similar">
         <li>
             <a href="/finna/Record/jykdok.358930" title="Muumi">Muumi</a>
@@ -689,7 +694,7 @@ $(document).ready(function() {
 </div>
 
  <div class="grid_8">
-  <h4>Apua</h4>
+  <h4>Ohje</h4>
   <ul>
     <li><a href="/finna/Content/searchhelp">Hakuohje</a></li>
     <li><a href="/finna/Feedback/Home">Palaute</a></li>

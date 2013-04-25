@@ -141,9 +141,9 @@
 
       <div id="nav" class="nav">
         <div class="content">
+          <h2 class="hidden-visually">Valikko</h2>
           <ul id="headerMenu" class="grid_19">
             <!-- START of: header-menu.fi.tpl -->
-
 <li class="menuHome"><a href="/finna/"><span></span></a></li>
 
 <li class="menuAbout"><a href="/finna/Content/about"><span>Tietoa</span></a></li>
@@ -197,6 +197,7 @@
 <!-- END of: login-element.tpl -->
 <!-- END of: header-menu.fi.tpl -->          </ul>
           <div class="lang">
+            <h2 class="hidden-visually">Kielen valinta</h2>
                         <ul>
                                                                               <li><a href="/finna/?lng=sv">
                     Svenska</a>
@@ -232,8 +233,8 @@
   <div id="blurb">
     <!-- START of: Search/home-blurb.fi.tpl -->
 
-<h2><span class="blurbLine">Suomen arkistojen, kirjastojen ja </span><span class="blurbLine">museoiden aarteet <em>samalla haulla</em></span></h2><br>
-<h3><span class="blurbLine">Jo yli <em>7 620 384</em> aineistotietoa!</span></h3>
+<div><span class="blurbLine">Suomen arkistojen, kirjastojen ja </span><span class="blurbLine">museoiden aarteet <em>samalla haulla</em></span></div><br>
+<div><span class="blurbLine">Jo yli <em>7 620 384</em> aineistotietoa!</span></div>
     
 <!-- END of: Search/home-blurb.fi.tpl -->  </div>
 </div>
@@ -261,6 +262,7 @@ tukkipinoja. Pielisjärvi (Lieksa), Pohjois-Karjala.</p>
 <div id="searchFormContainer" class="searchform last content">
 
   <form method="get" action="/Search/Results" name="searchForm" id="searchForm" class="search">
+    <h2 class="hidden-visually">Haku</h2>
     <div class="searchFormWrapper grid_16">
       <div class="overLabelWrapper">
         <label style="text-indent: 0px;" for="searchForm_input" id="searchFormLabel" class="labelOver normal">Hae…</label>
@@ -349,7 +351,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="content">
     <div class="grid_14">
       <div id="siteDescription">
-        <h2>Tietoa tarvitseville ja elämyksiä etsiville</h2>
+        <h1 class="hidden-visually">Mikä Finna on?</h1>
+        <p>Tietoa tarvitseville ja elämyksiä etsiville</p>
         <p>Finna on uudenlainen tiedonhakupalvelu kaikille arkistojen, kirjastojen ja museoiden palveluiden käyttäjille.</p>
         <p>Finna on nyt testikäytössä. Kokeile hakua, <a href="/finna/Feedback/Home">anna palautetta</a> tai <a class="color-violet" href="/finna/Content/about">lue lisää</a> palvelusta!</p>
       </div>
@@ -487,7 +490,7 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
   <div class="content">
     <div class="grid_14">
       <div id="topSearches">
-        <h2>10 suosituinta hakua</h2>
+        <h2>Suosituimmat haut</h2>
         <div id="popularSearches" class="recent-searches"><ul>
     <li><span>1</span><span><a href="/finna/Search/Results?lookfor=%22mets%C3%A4teknologia%22">"metsäteknologia"</a></span></li>
         <li><span>2</span><span><a href="/finna/Search/Results?lookfor=moottorisaha">moottorisaha</a></span></li>
@@ -542,7 +545,7 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
 </div>
 
  <div class="grid_8">
-  <h4>Apua</h4>
+  <h4>Ohje</h4>
   <ul>
     <li><a href="/finna/Content/searchhelp">Hakuohje</a></li>
     <li><a href="/finna/Feedback/Home">Palaute</a></li>

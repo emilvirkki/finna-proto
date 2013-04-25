@@ -139,6 +139,7 @@
 
       <div id="nav" class="nav">
         <div class="content">
+          <h2 class="hidden-visually">Valikko</h2>
           <ul id="headerMenu" class="grid_19">
             <!-- START of: header-menu.fi.tpl -->
 
@@ -195,6 +196,7 @@
 <!-- END of: login-element.tpl -->
 <!-- END of: header-menu.fi.tpl -->          </ul>
           <div class="lang">
+            <h2 class="hidden-visually">Kielen valinta</h2>
                         <ul>
                                                                               <li><a href="/finna/Search/Results?lookfor=muumi&amp;prefilter=-&amp;SearchForm_submit=Hae&amp;lng=sv">
                     Svenska</a>
@@ -244,6 +246,7 @@
 <div id="searchFormContainer" class="searchform last content">
 
   <form method="get" action="/Search/Results" name="searchForm" id="searchForm" class="search">
+    <h2 class="hidden-visually">Haku</h2>
     <div class="searchFormWrapper grid_16">
       <div class="overLabelWrapper">
         <label style="text-indent: -10000px;" for="searchForm_input" id="searchFormLabel" class="labelOver normal">Hae…</label>
@@ -329,9 +332,9 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 <div class="resultHeader">
   <div class="resultTerms">
     <div class="content">
-            <h3 class="searchTerms grid_24">
-              muumi
-                            </h3>
+            <h1 class="searchTerms grid_24">
+              <span class="hidden-visually">Hakutulokset: </span>muumi<span class="hidden-visually">, yhteensä 907, näytetään 1-20</span>
+                            </h1>
           </div>   </div>   
   <div class="resultRecommendations">
     <div class="content">
@@ -589,9 +592,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/jykdok.358930" class="title"><span class="highlight">Muumi</span></a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/jykdok.358930" class="title"><span class="highlight">Muumi</span>
+        <span class="hidden-visually">, Aikakauslehti, 1991</span>
+      </a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatjournal formatjournaljournal">Aikakauslehti</span></div>
     
@@ -651,9 +656,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/jykdok.182069" class="title"><span class="highlight">Muumi</span></a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/jykdok.182069" class="title"><span class="highlight">Muumi</span>
+        <span class="hidden-visually">, Aikakauslehti, 1984 - 1985</span>
+      </a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatjournal formatjournaljournal">Aikakauslehti</span></div>
     
@@ -713,9 +720,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.1158419" class="title"><span class="highlight">Muumi</span></a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.1158419" class="title"><span class="highlight">Muumi</span>
+        <span class="hidden-visually">, Äänikasetti</span>
+      </a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsoundcassette">Äänikasetti</span></div>
     
@@ -772,9 +781,12 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.218830" class="title"><span class="highlight">Muumi</span> <span class="highlight">muumi</span> ; Hei mies -räp</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.218830" class="title">
+        <span class="highlight">Muumi</span> <span class="highlight">muumi</span> ; Hei mies -räp
+        <span class="hidden-visually">, Äänilevy, 1987</span>
+        </a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -831,9 +843,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.212721" class="title"><span class="highlight">Muumi</span> 2 : 14 uutta <span class="highlight">Muumi</span> laulua</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.212721" class="title">
+        <span class="highlight">Muumi</span> 2 : 14 uutta <span class="highlight">Muumi</span> laulua
+        <span class="hidden-visually">, Äänilevy, 1993</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -890,9 +904,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.200583" class="title">Lasten ikioma <span class="highlight">muumi</span> : 14 alkuperäistä <span class="highlight">Muumi</span> laulua</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.200583" class="title">
+        Lasten ikioma <span class="highlight">muumi</span> : 14 alkuperäistä <span class="highlight">Muumi</span> laulua
+        <span class="hidden-visually">, Äänilevy, 1992</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -954,9 +970,12 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/arto.1391554" class="title"><span class="highlight">Muumi</span>-buumissa hiljaisempi kausi</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/arto.1391554" class="title">
+        <span class="highlight">Muumi</span>-buumissa hiljaisempi kausi
+        <span class="hidden-visually">, Artikkeli, 1994</span>
+        </a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatjournal formatjournalarticle">Artikkeli</span></div>
     
@@ -1020,9 +1039,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/arto.954374" class="title"><span class="highlight">Muumi</span>-postiemerkki on nukkapintainen ja pehmeä</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/arto.954374" class="title">
+        <span class="highlight">Muumi</span>-postiemerkki on nukkapintainen ja pehmeä
+        <span class="hidden-visually">, Artikkeli, 2004</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatjournal formatjournalarticle">Artikkeli</span></div>
     
@@ -1083,9 +1104,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/arto.1320113" class="title"><span class="highlight">Muumi</span> ja muut peikot</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/arto.1320113" class="title"><span class="highlight">Muumi</span> ja muut peikot
+        <span class="hidden-visually">, Artikkeli, 2007</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatjournal formatjournalarticle">Artikkeli</span></div>
     
@@ -1148,9 +1170,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.655400" class="title">Parhaat <span class="highlight">Muumi</span> laulut</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.655400" class="title">Parhaat <span class="highlight">Muumi</span> laulut
+        <span class="hidden-visually">, Äänilevy, 2002</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -1210,9 +1233,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.712816" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 1.</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.712816" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 1.
+        <span class="hidden-visually">, Äänilevy, 2006</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -1272,9 +1296,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.712817" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 2.</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.712817" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 2.
+        <span class="hidden-visually">, Äänilevy, 2006</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -1334,9 +1359,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.712818" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 3.</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.712818" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 3.
+        <span class="hidden-visually">, Äänilevy, 2006</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -1396,9 +1422,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.712819" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 4.</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.712819" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 4.
+        <span class="hidden-visually">, Äänilevy, 2006</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -1458,9 +1485,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.712820" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 5.</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.712820" class="title">Uusia <span class="highlight">Muumi</span>-lauluja. 5.
+        <span class="hidden-visually">, Äänilevy, 2006</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -1520,9 +1548,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/viola.832999" class="title"><span class="highlight">Muumi</span>-musiikkia Juniorilta</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/viola.832999" class="title"><span class="highlight">Muumi</span>-musiikkia Juniorilta
+        <span class="hidden-visually">, Äänilevy, 2008</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatsound formatsoundsounddisc">Äänilevy</span></div>
     
@@ -1583,9 +1612,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/jykdok.1078228" class="title"><span class="highlight">Muumi</span></a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/jykdok.1078228" class="title"><span class="highlight">Muumi</span>
+        <span class="hidden-visually">, Kooste, 2008</span>
+      </a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatother formatotherkit">Kooste</span></div>
     
@@ -1649,9 +1680,11 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/fennica.1002824" class="title">Vaunukaveri : <span class="highlight">muumi</span></a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/fennica.1002824" class="title">Vaunukaveri : <span class="highlight">muumi</span>
+        <span class="hidden-visually">, Kirja, 2011</span>
+      </a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatbook formatbookbook">Kirja</span></div>
     
@@ -1716,9 +1749,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/arto.697034" class="title"><span class="highlight">Muumi</span>, josta tuli Robin Hood</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/arto.697034" class="title"><span class="highlight">Muumi</span>, josta tuli Robin Hood
+        <span class="hidden-visually">, Artikkeli, 1994</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatjournal formatjournalarticle">Artikkeli</span></div>
     
@@ -1785,9 +1819,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
   <div class="resultColumn2 grid_11">
 
-    <div class="resultItemLine1">
-      <a href="/finna/Record/jykdok.378755" class="title"><span class="highlight">Muumi</span> : tarra-albumi</a>
-    </div>
+    <h2 class="resultItemLine1">
+      <a href="/finna/Record/jykdok.378755" class="title"><span class="highlight">Muumi</span> : tarra-albumi
+        <span class="hidden-visually">, Kirja, 1992</span></a>
+    </h2>
    
     <div class="resultItemFormat"><span class="iconlabel formatbook formatbookbook">Kirja</span></div>
     
@@ -1837,7 +1872,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
                         <!-- START of: Search/Recommend/SideFacets.tpl -->
 
 <div class="sidegroup">
-  <h4>Rajaa hakua</h4>                      <dl class="narrowList navmenu collapsed open collapsible">
+  <h2>Rajaa hakua</h2>                      <dl class="narrowList navmenu collapsed open collapsible">
         <dt>Sijainti</dt>
       </dl>
 
@@ -2045,7 +2080,7 @@ $(document).ready(function() {
                           <dd><a href="#" onclick="lessFacets('geographic_facet'); return false;">vähemmän ...</a></dd>      </dl>
           </div>
 
-<!-- END of: Search/Recommend/SideFacets.tpl -->                <h4 class="jumpToFacets">Rajaa hakua</h4>          </div>
+<!-- END of: Search/Recommend/SideFacets.tpl -->                          </div>
   </div>
 </div>
           
@@ -2110,7 +2145,7 @@ $(document).ready(function() {
 </div>
 
  <div class="grid_8">
-  <h4>Apua</h4>
+  <h4>Ohje</h4>
   <ul>
     <li><a href="/finna/Content/searchhelp">Hakuohje</a></li>
     <li><a href="/finna/Feedback/Home">Palaute</a></li>
