@@ -106,7 +106,7 @@
     
         $(function(){
             $('#searchFormLabel').labelOver('labelOver')
-            //setMainFocus();
+            setMainFocus();
         });
     
     </script>
@@ -731,27 +731,7 @@ $(document).ready(function() {
       </div>
 
     </div> 
-          
-<!-- Piwik -->
-<script type="text/javascript">
-var pkBaseURL = "https://piwik.finna.fi/";
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="Finna%20-%20Saatavuustiedot_%20Muumi_tiedostot/piwik.js" type="text/javascript"></script>
-<script type="text/javascript">
-try { 
-  var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-  piwikTracker.enableLinkTracking();
-                                      piwikTracker.setCustomVariable(1, 'RecordFormat', 'Journal/Journal', 'page');
-                        
-  piwikTracker.setCustomVariable(2, 'RecordData', 'jykdok.358930|-|Muumi', 'page');
-            
-  piwikTracker.setCustomVariable(3, 'RecordInstitution', 'JYU', 'page');
-        piwikTracker.trackPageView();
-     
-} catch( err ) {} 
-</script>
-<noscript><p><img src="https://piwik.finna.fi/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
+         
      
 <script type="text/javascript">
 $(document).ready(function() {

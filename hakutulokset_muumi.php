@@ -105,7 +105,7 @@
     
         $(function(){
             $('#searchFormLabel').labelOver('labelOver')
-            //setMainFocus();
+            setMainFocus();
         });
     
     </script>

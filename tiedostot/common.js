@@ -28,7 +28,7 @@ $(document).ready(function(){
     initClearable();
     
     // put focus on the "mainFocus" element if it's visible
-    //setMainFocus();
+    setMainFocus();
 
     // support "jump menu" dropdown boxes
     $('select.jumpMenu').change(function(){ $(this).parent('form').submit(); });
