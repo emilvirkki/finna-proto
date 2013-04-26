@@ -120,7 +120,7 @@
                 <?php include('common.php') ?>
   </head>
   <body class="theme-custom theme-national theme-ndl  ">
-                
+                <a href="#results" class="hidden-visually">Siirry suoraan hakutuloksiin</a>
         <div id="lightboxLoading" style="display: none;">Lataa...</div>
     <div id="lightboxError" style="display: none;">Virhe: Ponnahdusikkunan lataaminen epäonnistui.</div>
     <div id="lightbox" onclick="hideLightbox(); return false;"></div>
@@ -246,7 +246,7 @@
 <div id="searchFormContainer" class="searchform last content">
 
   <form method="get" action="/finna/hakutulokset_muumi" name="searchForm" id="searchForm" class="search">
-    <h2 class="hidden-visually">Haku</h2>
+    <h2 class="hidden-visually" id="haku">Haku</h2>
     <div class="searchFormWrapper grid_16">
       <div class="overLabelWrapper">
         <label style="text-indent: -10000px;" for="searchForm_input" id="searchFormLabel" class="labelOver normal">Hae…</label>
@@ -332,10 +332,12 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 <div class="resultHeader">
   <div class="resultTerms">
     <div class="content">
-            <h1 class="searchTerms grid_24">
+            <h1 class="searchTerms grid_24" id="results">
               <span class="hidden-visually">Hakutulokset: </span><?php print $_GET['lookfor'] ?><span class="hidden-visually">, yhteensä 907, näytetään 1-20</span>
                             </h1>
           </div>   </div>   
+          <a href="#rajaa" class="hidden-visually">Siirry rajaamaan hakua</a>
+          <a href="#haku" class="hidden-visually">Siirry tekemään uusi haku</a>
   <div class="resultRecommendations">
     <div class="content">
       <div class="grid_24">
@@ -1872,7 +1874,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
                         <!-- START of: Search/Recommend/SideFacets.tpl -->
 
 <div class="sidegroup">
-  <h2>Rajaa hakua</h2>                      <dl class="narrowList navmenu collapsed open collapsible">
+  <h2 id="rajaa">Rajaa hakua</h2>                      <dl class="narrowList navmenu collapsed open collapsible">
         <dt>Sijainti</dt>
       </dl>
 
