@@ -2091,7 +2091,18 @@ $(document).ready(function() {
     <div class="content">
       <div id="bottomPagination">
         <span class="paginationMove paginationBack "><span>◄</span></span>
-        <span class="paginationPages"><span>1</span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=2&amp;view=list" title="page 2">2</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=3&amp;view=list" title="page 3">3</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=4&amp;view=list" title="page 4">4</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=5&amp;view=list" title="page 5">5</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=6&amp;view=list" title="page 6">6</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=7&amp;view=list" title="page 7">7</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=8&amp;view=list" title="page 8">8</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=9&amp;view=list" title="page 9">9</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=10&amp;view=list" title="page 10">10</a><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=11&amp;view=list" title="page 11">11</a></span>
+        <span class="paginationPages"><span>1</span>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=2&amp;view=list" title="page 2"><span class="hidden-visually">Sivu </span>2</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=3&amp;view=list" title="page 3"><span class="hidden-visually">Sivu </span>3</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=4&amp;view=list" title="page 4"><span class="hidden-visually">Sivu </span>4</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=5&amp;view=list" title="page 5"><span class="hidden-visually">Sivu </span>5</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=6&amp;view=list" title="page 6"><span class="hidden-visually">Sivu </span>6</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=7&amp;view=list" title="page 7"><span class="hidden-visually">Sivu </span>7</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=8&amp;view=list" title="page 8"><span class="hidden-visually">Sivu </span>8</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=9&amp;view=list" title="page 9"><span class="hidden-visually">Sivu </span>9</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=10&amp;view=list" title="page 10"><span class="hidden-visually">Sivu </span>10</a>
+        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=11&amp;view=list" title="page 11"><span class="hidden-visually">Sivu </span>11</a>
+        </span>
         <span class="paginationMove paginationNext visible"><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;page=2&amp;view=list" title="next page">Seuraavat 20 tulosta</a><span>▶</span></span>
       </div>
     </div>
