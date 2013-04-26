@@ -218,7 +218,7 @@
 
   <div class="grid_24 drop">
     <a id="logo" href="/finna/" title="Etusivu">
-      <img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/customhomelogo.png" alt="">
+      <img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/customhomelogo.png" alt="Etusivu">
     </a>
   </div>
 
@@ -333,7 +333,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="resultTerms">
     <div class="content">
             <h1 class="searchTerms grid_24" id="results">
-              <span class="hidden-visually">Hakutulokset: </span><?php print $_GET['lookfor'] ?><span class="hidden-visually">, yhteensä 907, näytetään 1-20</span>
+              <span class="hidden-visually">Hakutulokset: </span><?php print $_GET['lookfor'] ?><span class="hidden-visually">, tuloksia yhteensä 907, näytetään 1-20</span>
                             </h1>
           </div>   </div>   
           <a href="#rajaa" class="hidden-visually">Siirry rajaamaan hakua</a>
@@ -635,7 +635,6 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi&amp;rft.issn=0789-7936&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Semic&amp;rft.format=Journal&amp;rft.language=fin"></span>
     </li>
       <li class="result alt">
       <span class="recordNumber">2</span>
@@ -699,7 +698,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi&amp;rft.issn=0784-0144&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Lehtimiehet&amp;rft.format=Journal&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">3</span>
@@ -760,7 +759,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi&amp;rft.date=&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.format=Sound%2FSoundCassette&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">4</span>
@@ -822,7 +821,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi+muumi+%3B+Hei+mies+-r%C3%A4p&amp;rft.date=1987&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Unitor&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">5</span>
@@ -883,7 +882,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi+2+%3A+14+uutta+Muumi+laulua&amp;rft.date=1993&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.format=Sound%2FSoundDisc"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">6</span>
@@ -949,7 +948,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Lasten+ikioma+muumi+%3A+14+alkuper%C3%A4ist%C3%A4+Muumi+laulua&amp;rft.date=1992&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=T%C3%B6rnroos%2C+Benny%2C+esitt.&amp;rft.pub=K-tel+International+%28Finland%29&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">7</span>
@@ -1018,7 +1017,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.date=1994&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.issn=1237-4717&amp;rft.isbn=&amp;rft.volume=&amp;rft.issue=1&amp;rft.spage=28&amp;rft.jtitle=Sarjismedia&amp;rft.atitle=Muumi-buumissa+hiljaisempi+kausi&amp;rft.au=&amp;rft.format=Article&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">8</span>
@@ -1083,7 +1082,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.date=2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.issn=0355-7731&amp;rft.isbn=&amp;rft.volume=85&amp;rft.issue=4&amp;rft.spage=6&amp;rft.jtitle=Suomen+postimerkkilehti&amp;rft.atitle=Muumi-postiemerkki+on+nukkapintainen+ja+pehme%C3%A4&amp;rft.au=&amp;rft.format=Article&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">9</span>
@@ -1149,7 +1148,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.date=2007&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.issn=0358-3694&amp;rft.isbn=&amp;rft.volume=26&amp;rft.issue=3&amp;rft.spage=13&amp;rft.jtitle=Apollo+%3A+%5Bpostikorttilehti%5D&amp;rft.atitle=Muumi+ja+muut+peikot&amp;rft.au=M%C3%A4lki%C3%A4%2C+Lahja&amp;rft.format=Article&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">10</span>
@@ -1212,7 +1211,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Parhaat+Muumi+laulut&amp;rft.date=2002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Edel+Records+Finland&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">11</span>
@@ -1275,7 +1274,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Uusia+Muumi-lauluja.+1.&amp;rft.date=2006&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Rubato+Music&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">12</span>
@@ -1338,7 +1337,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Uusia+Muumi-lauluja.+2.&amp;rft.date=2006&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Rubato+Music&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">13</span>
@@ -1401,7 +1400,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Uusia+Muumi-lauluja.+3.&amp;rft.date=2006&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Rubato+Music&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">14</span>
@@ -1464,7 +1463,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Uusia+Muumi-lauluja.+4.&amp;rft.date=2006&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Rubato+Music&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">15</span>
@@ -1527,7 +1526,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Uusia+Muumi-lauluja.+5.&amp;rft.date=2006&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Rubato+Music&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">16</span>
@@ -1590,7 +1589,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi-musiikkia+Juniorilta&amp;rft.date=2008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Rubato+Music&amp;rft.format=Sound%2FSoundDisc&amp;rft.language=fin"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">17</span>
@@ -1606,7 +1605,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
            
      
         <div class="resultNoImage formatother formatotherkit"></div>
-        <div class="resultImage"><a href="/finna/bookcover.php?isn=9512881314&amp;size=large" onclick="launchFancybox(this); return false;" rel="jykdok.1078228"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/bookcover_002.gif" class="summcover" alt="Kansikuva"></a></div>
+        <div class="resultImage"><a href="/finna/bookcover.php?isn=9512881314&amp;size=large" onclick="launchFancybox(this); return false;" rel="jykdok.1078228"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/bookcover_002.gif" class="summcover" alt="Näytä kansikuva"></a></div>
   
   </div> 
 
@@ -1658,7 +1657,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi&amp;rft.date=2008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.pub=Egmont%2FKirjalito&amp;rft.format=Other%2FKit&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">18</span>
@@ -1674,7 +1673,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
            
      
         <div class="resultNoImage formatbook formatbookbook"></div>
-        <div class="resultImage"><a href="/finna/bookcover.php?isn=9512852012&amp;size=large" onclick="launchFancybox(this); return false;" rel="fennica.1002824"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/bookcover_003.gif" class="summcover" alt="Kansikuva"></a></div>
+        <div class="resultImage"><a href="/finna/bookcover.php?isn=9512852012&amp;size=large" onclick="launchFancybox(this); return false;" rel="fennica.1002824"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/bookcover_003.gif" class="summcover" alt="Näytä kansikuva"></a></div>
   
   </div> 
 
@@ -1728,7 +1727,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Vaunukaveri+%3A+muumi&amp;rft.date=2011&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Vaunukaveri+%3A+muumi&amp;rft.au=Rasi%2C+Jari&amp;rft.pub=Kirjalito&amp;rft.edition=&amp;rft.isbn=9512852012"></span>
+
     </li>
       <li class="result">
       <span class="recordNumber">19</span>
@@ -1797,7 +1796,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.date=1994&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.issn=&amp;rft.isbn=&amp;rft.volume=78&amp;rft.issue=5&amp;rft.spage=18&amp;rft.jtitle=Suomen+kuvalehti&amp;rft.atitle=Muumi%2C+josta+tuli+Robin+Hood&amp;rft.au=Lappalainen%2C+Tuomo&amp;rft.format=Article&amp;rft.language=fin"></span>
+
     </li>
       <li class="result alt">
       <span class="recordNumber">20</span>
@@ -1813,7 +1812,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
            
      
         <div class="resultNoImage formatbook formatbookbook"></div>
-        <div class="resultImage"><a href="/finna/bookcover.php?isn=9518754519&amp;size=large" onclick="launchFancybox(this); return false;" rel="jykdok.378755"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/bookcover.gif" class="summcover" alt="Kansikuva"></a></div>
+        <div class="resultImage"><a href="/finna/bookcover.php?isn=9518754519&amp;size=large" onclick="launchFancybox(this); return false;" rel="jykdok.378755"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/bookcover.gif" class="summcover" alt="Näytä kansikuva"></a></div>
   
   </div> 
 
@@ -1864,7 +1863,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <div class="clear"></div>
 </div>
 
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Ffinna.fi%3Agenerator&amp;rft.title=Muumi+%3A+tarra-albumi&amp;rft.date=1992&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Muumi+%3A+tarra-albumi&amp;rft.au=&amp;rft.pub=Sanomaprint&amp;rft.edition=&amp;rft.isbn=9518754519"></span>
+
     </li>
     </ul>
   
