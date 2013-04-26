@@ -144,7 +144,7 @@
           <h2 class="hidden-visually">Valikko</h2>
           <ul id="headerMenu" class="grid_19">
             <!-- START of: header-menu.fi.tpl -->
-<li class="menuHome"><a href="/finna/"><span></span></a></li>
+<li class="menuHome"><a href="/finna/"><span></span><div class="hidden-visually">Etusivu</div></a></li>
 
 <li class="menuAbout"><a href="/finna/Content/about"><span>Tietoa</span></a></li>
 
@@ -218,7 +218,7 @@
 
 
   <div class="grid_24 drop">
-    <a id="logo" href="/finna/" title="Koti">
+    <a id="logo" href="/finna/" title="Etusivu">
       <img src="Finna%20-%20Haun%20aloitussivu_tiedostot/customhomelogo.png" alt="">
     </a>
   </div>
@@ -555,7 +555,7 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
 <div id="footerSeparator"></div>
 
 <div class="grid_8">
-   <a href="http://finna.fi/" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/finna_logo_small.png" alt="Koti"></a>
+   <a href="http://finna.fi/" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/finna_logo_small.png" alt="Etusivu"></a>
 </div>
 <div class="grid_8">
             <a href="http://www.kdk.fi/" target="_blank" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/kdk_logo_fi.png" alt="KDK-logo"></a>

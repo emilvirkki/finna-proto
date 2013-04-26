@@ -143,7 +143,7 @@
           <h2 class="hidden-visually">Valikko</h2>
           <ul id="headerMenu" class="grid_19">
             <!-- START of: header-menu.fi.tpl -->
-<li class="menuHome"><a href="/finna/"><span></span></a></li>
+<li class="menuHome"><a href="/finna/"><span></span><div class="hidden-visually">Etusivu</div></a></li>
 
 <li class="menuAbout"><a href="/finna/Content/about"><span>Tietoa</span></a></li>
 
@@ -217,7 +217,7 @@
 
 
   <div class="grid_24 drop">
-    <a id="logo" href="/finna/" title="Koti">
+    <a id="logo" href="/finna/" title="Etusivu">
       <img src="Finna%20-%20Saatavuustiedot_%20Muumi_tiedostot/customhomelogo.png" alt="">
     </a>
   </div>
@@ -229,7 +229,7 @@
     <div class="grid_24">
       <div class="breadcrumbs">
         <div class="breadcrumbinner">
-          <a href="/finna/">Koti</a><span></span>
+          <a href="/finna/">Etusivu</a><span></span>
           <!-- START of: Record/breadcrumbs.tpl -->
 
   <a href="/finna/hakutulokset_muumi?lookfor=<?php print $_GET['lookfor'] ?>">Haku: <?php print $_GET['lookfor'] ?></a>
@@ -704,7 +704,7 @@ $(document).ready(function() {
 <div id="footerSeparator"></div>
 
 <div class="grid_8">
-   <a href="http://finna.fi/" class="footerLogo"><img src="Finna%20-%20Saatavuustiedot_%20Muumi_tiedostot/finna_logo_small.png" alt="Koti"></a>
+   <a href="http://finna.fi/" class="footerLogo"><img src="Finna%20-%20Saatavuustiedot_%20Muumi_tiedostot/finna_logo_small.png" alt="Etusivu"></a>
 </div>
 <div class="grid_8">
             <a href="http://www.kdk.fi/" target="_blank" class="footerLogo"><img src="Finna%20-%20Saatavuustiedot_%20Muumi_tiedostot/kdk_logo_fi.png" alt="KDK-logo"></a>
