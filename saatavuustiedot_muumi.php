@@ -121,7 +121,7 @@
                 <?php include('common.php') ?>
   <div id="_atssh" style="visibility: hidden; height: 1px; width: 1px; position: absolute; z-index: 100000;"><iframe src="Finna%20-%20Saatavuustiedot_%20Muumi_tiedostot/sh114.html" style="height: 1px; width: 1px; position: absolute; z-index: 100000; border: 0px none; left: 0px; top: 0px;" title="AddThis utility frame" id="_atssh540"></iframe></div><script src="Finna%20-%20Saatavuustiedot_%20Muumi_tiedostot/core071.js" type="text/javascript"></script></head>
   <body class="theme-custom theme-national theme-ndl  ">
-                
+                <a href="#content" class="hidden-visually">Siirry suoraan sisältöön</a>
         <div id="lightboxLoading" style="display: none;">Lataa...</div>
     <div id="lightboxError" style="display: none;">Virhe: Ponnahdusikkunan lataaminen epäonnistui.</div>
     <div id="lightbox" onclick="hideLightbox(); return false;"></div>
@@ -408,7 +408,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
       
   
     
-    <h1 class="recordTitle">Muumi<span class="hidden-visually">, Aikakauslehti, 1991</span></h1>
+    <h1 class="recordTitle" id="content">Muumi<span class="hidden-visually">, Aikakauslehti, 1991</span></h1>
   
   
   
