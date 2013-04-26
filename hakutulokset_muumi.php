@@ -630,7 +630,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.358930" href="/finna/Record/jykdok.358930/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordjykdok.358930" href="/finna/Record/jykdok.358930/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -694,7 +694,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.182069" href="/finna/Record/jykdok.182069/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordjykdok.182069" href="/finna/Record/jykdok.182069/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -755,7 +755,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.1158419" href="/finna/Record/viola.1158419/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.1158419" href="/finna/Record/viola.1158419/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -817,7 +817,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.218830" href="/finna/Record/viola.218830/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.218830" href="/finna/Record/viola.218830/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -878,7 +878,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.212721" href="/finna/Record/viola.212721/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.212721" href="/finna/Record/viola.212721/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -944,7 +944,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.200583" href="/finna/Record/viola.200583/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.200583" href="/finna/Record/viola.200583/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1013,7 +1013,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.1391554" href="/finna/Record/arto.1391554/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordarto.1391554" href="/finna/Record/arto.1391554/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1078,7 +1078,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.954374" href="/finna/Record/arto.954374/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordarto.954374" href="/finna/Record/arto.954374/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1144,7 +1144,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.1320113" href="/finna/Record/arto.1320113/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordarto.1320113" href="/finna/Record/arto.1320113/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1207,7 +1207,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.655400" href="/finna/Record/viola.655400/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.655400" href="/finna/Record/viola.655400/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1270,7 +1270,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712816" href="/finna/Record/viola.712816/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.712816" href="/finna/Record/viola.712816/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1333,7 +1333,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712817" href="/finna/Record/viola.712817/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.712817" href="/finna/Record/viola.712817/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1396,7 +1396,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712818" href="/finna/Record/viola.712818/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.712818" href="/finna/Record/viola.712818/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1459,7 +1459,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712819" href="/finna/Record/viola.712819/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.712819" href="/finna/Record/viola.712819/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1522,7 +1522,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712820" href="/finna/Record/viola.712820/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.712820" href="/finna/Record/viola.712820/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1585,7 +1585,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.832999" href="/finna/Record/viola.832999/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordviola.832999" href="/finna/Record/viola.832999/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1653,7 +1653,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.1078228" href="/finna/Record/jykdok.1078228/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordjykdok.1078228" href="/finna/Record/jykdok.1078228/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1723,7 +1723,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordfennica.1002824" href="/finna/Record/fennica.1002824/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordfennica.1002824" href="/finna/Record/fennica.1002824/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1792,7 +1792,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.697034" href="/finna/Record/arto.697034/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordarto.697034" href="/finna/Record/arto.697034/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1859,7 +1859,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.378755" href="/finna/Record/jykdok.378755/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"></a>
+    <a id="saveRecordjykdok.378755" href="/finna/Record/jykdok.378755/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
   </div>
   <div class="clear"></div>
 </div>

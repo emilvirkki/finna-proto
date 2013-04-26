@@ -1,5 +1,6 @@
 <style>
-  .facet_loading.hide {
+  .facet_loading.hide,
+  .dropdown dt a span {
     display: none !important
   }
   .hidden-visually {
