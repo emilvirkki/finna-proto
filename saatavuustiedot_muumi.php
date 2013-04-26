@@ -346,8 +346,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
         <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list#recordjykdok.358930"><div class="button buttonFinna icon"><span class="icon">«</span></div>Takaisin hakutuloksiin</a>
     </div>
         <div class="resultscroller grid_5 push_7">
-    <span class="prevRecord inactive"><span class="resultNav">«&nbsp;Edellinen</span></span>    1 / 907
-        <a href="/finna/Record/jykdok.182069" class="nextRecord icon"><span class="resultNav">Seuraava&nbsp;»</span></a>
+    <span class="prevRecord inactive"><span class="resultNav">Edellinen hakutulos</span></span>    1 / 907
+        <a href="/finna/Record/jykdok.182069" class="nextRecord icon"><span class="resultNav">Seuraava hakutulos</span></a>
     	</div>
 	  </div>
 <div class="clear"></div>
