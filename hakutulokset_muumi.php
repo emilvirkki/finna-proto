@@ -611,7 +611,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...<span class="highlight">muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/saatavuustiedot_muumi?lookfor=<?php print $_GET['lookfor'] ?>" class="title">Jyväskylän yliopisto</a> (Muut sijainnit: <a href="/finna/Record/fennica.232936" class="title">Kansalliskirjasto</a>)        <br>
+        Tietokannassa: <a href="/finna/saatavuustiedot_muumi?lookfor=<?php print $_GET['lookfor'] ?>" class="title">Jyväskylän yliopisto</a> (Muissa tietokannoissa: <a href="/finna/Record/fennica.232936" class="title">Kansalliskirjasto</a>)        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationjykdok.358930">
                       <div style="display: none;" class="hide noLoad" id="statusjykdok.358930"><span class="checkedout">Ei saatavissa</span></div>
@@ -674,7 +674,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...<span class="highlight">muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/jykdok.182069" class="title">Jyväskylän yliopisto</a> (Muut sijainnit: <a href="/finna/Record/fennica.179639" class="title">Kansalliskirjasto</a>)        <br>
+        Tietokannassa: <a href="/finna/Record/jykdok.182069" class="title">Jyväskylän yliopisto</a> (Muissa tietokannoissa: <a href="/finna/Record/fennica.179639" class="title">Kansalliskirjasto</a>)        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationjykdok.182069">
                       <div style="display: none;" class="hide noLoad" id="statusjykdok.182069"><span class="checkedout">Ei saatavissa</span></div>
@@ -735,7 +735,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...<span class="highlight">muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.1158419" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.1158419" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.1158419">
                       <div style="display: block;" class="hide noLoad" id="statusviola.1158419"></div>
@@ -797,7 +797,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...<span class="highlight">Muumi</span> <span class="highlight">muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.218830" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.218830" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.218830">
                       <div style="display: block;" class="hide noLoad" id="statusviola.218830"></div>
@@ -858,7 +858,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Sisällysluettelo:       <span class="quotestart">“</span>...Muuan <span class="highlight">Muumi</span>pappa ; Pikku Myyn haaveet ; <span class="highlight">Muumi</span>maailma ; Kun laiskottaa ; Nipsu unelmoi ; Onnea...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.212721" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.212721" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationviola.212721">
                       <div style="display: none;" class="hide noLoad" id="statusviola.212721"><span class="checkedout">Ei saatavissa</span></div>
@@ -924,7 +924,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Sisällysluettelo:       <span class="quotestart">“</span>...<span class="highlight">Muumit</span> <span class="highlight">Muumit</span>! ; Nuuskamuikkusen laulu ; <span class="highlight">Muumi</span>tanssi ; Nipsu on kultainen ; Käy <span class="highlight">Muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.200583" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.200583" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.200583">
                       <div style="display: block;" class="hide noLoad" id="statusviola.200583"></div>
@@ -993,7 +993,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
                           <span class="tiny">
-        Sijainti: <a href="/finna/Record/arto.1391554" class="title">Arto-artikkelitietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/arto.1391554" class="title">Arto-artikkelitietokanta</a>        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationarto.1391554">
                       <div style="display: none;" class="hide noLoad" id="statusarto.1391554"><span class="checkedout">Ei saatavissa</span></div>
@@ -1058,7 +1058,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Aiheet:       <span class="quotestart">“</span>...postimerkit aiheet <span class="highlight">muumit</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/arto.954374" class="title">Arto-artikkelitietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/arto.954374" class="title">Arto-artikkelitietokanta</a>        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationarto.954374">
                       <div style="display: none;" class="hide noLoad" id="statusarto.954374"><span class="checkedout">Ei saatavissa</span></div>
@@ -1124,7 +1124,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Aiheet:       <span class="quotestart">“</span>...satuolennot <span class="highlight">muumit</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/arto.1320113" class="title">Arto-artikkelitietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/arto.1320113" class="title">Arto-artikkelitietokanta</a>        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationarto.1320113">
                       <div style="display: none;" class="hide noLoad" id="statusarto.1320113"><span class="checkedout">Ei saatavissa</span></div>
@@ -1187,7 +1187,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...Käy <span class="highlight">Muumi</span>laaksoon...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.655400" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.655400" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.655400">
                       <div style="display: block;" class="hide noLoad" id="statusviola.655400"></div>
@@ -1250,7 +1250,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Sisällysluettelo:       <span class="quotestart">“</span>...Kaksi laulua (<span class="highlight">Muumi</span>talon asukkaat ja Lauttamatkalla seikkailuun) sekä niiden karaoke-versiot. Sekä...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.712816" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.712816" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.712816">
                       <div style="display: block;" class="hide noLoad" id="statusviola.712816"></div>
@@ -1313,7 +1313,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Sisällysluettelo:       <span class="quotestart">“</span>...-tietokoneiden selaimen avulla selattavissa olevat tiedostot, joilla tietoa <span class="highlight">Muumeista</span> ja Tove Janssonista...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.712817" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.712817" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.712817">
                       <div style="display: block;" class="hide noLoad" id="statusviola.712817"></div>
@@ -1376,7 +1376,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Sisällysluettelo:       <span class="quotestart">“</span>...Kaksi laulua (<span class="highlight">Muumi</span>pappa ja muistelmat, Piisamirotta) sekä niiden karaoke-versiot. Sekä Mac- tai PC...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.712818" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.712818" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.712818">
                       <div style="display: block;" class="hide noLoad" id="statusviola.712818"></div>
@@ -1439,7 +1439,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Sisällysluettelo:       <span class="quotestart">“</span>...Kaksi laulua (Pannaria luolassa, <span class="highlight">Muumi</span>mamma tietää) sekä niiden karaoke-versiot. Sekä Mac- tai PC...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.712819" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.712819" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.712819">
                       <div style="display: block;" class="hide noLoad" id="statusviola.712819"></div>
@@ -1502,7 +1502,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
               Sisällysluettelo:       <span class="quotestart">“</span>...Kaksi laulua (Reipas <span class="highlight">Muumi</span>peikko, Myrkkypensas) sekä niiden karaoke-versiot. Sekä Mac- tai PC...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.712820" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.712820" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.712820">
                       <div style="display: block;" class="hide noLoad" id="statusviola.712820"></div>
@@ -1565,7 +1565,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...Niiskuneiti ja <span class="highlight">Muumi</span>peikko...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/viola.832999" class="title">Viola-äänitetietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/viola.832999" class="title">Viola-äänitetietokanta</a>        <br>
         </span>
             <div id="callnumAndLocationviola.832999">
                       <div style="display: block;" class="hide noLoad" id="statusviola.832999"></div>
@@ -1630,7 +1630,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...<span class="highlight">muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/jykdok.1078228" class="title">Jyväskylän yliopisto</a> (Muut sijainnit: <a href="/finna/Record/fennica.878724" class="title">Kansalliskirjasto</a>)        <br>
+        Tietokannassa: <a href="/finna/Record/jykdok.1078228" class="title">Jyväskylän yliopisto</a> (Muissa tietokannoissa: <a href="/finna/Record/fennica.878724" class="title">Kansalliskirjasto</a>)        <br>
         </span>
             <div id="callnumAndLocationjykdok.1078228">
                       <div style="display: block;" class="hide noLoad" id="statusjykdok.1078228"><span class="available">Saatavissa</span></div>
@@ -1700,7 +1700,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
             <span class="quotestart">“</span>...<span class="highlight">Muumi</span>...<span class="quoteend">”</span><br>              <span class="tiny">
-        Sijainti: <a href="/finna/Record/fennica.1002824" class="title">Kansalliskirjasto</a>        <br>
+        Tietokannassa: <a href="/finna/Record/fennica.1002824" class="title">Kansalliskirjasto</a>        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationfennica.1002824">
                       <div style="display: none;" class="hide noLoad" id="statusfennica.1002824"><span class="checkedout">Ei saatavissa</span></div>
@@ -1772,7 +1772,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
                           <span class="tiny">
-        Sijainti: <a href="/finna/Record/arto.697034" class="title">Arto-artikkelitietokanta</a>        <br>
+        Tietokannassa: <a href="/finna/Record/arto.697034" class="title">Arto-artikkelitietokanta</a>        <br>
         </span>
             <div style="display: none;" id="callnumAndLocationarto.697034">
                       <div style="display: none;" class="hide noLoad" id="statusarto.697034"><span class="checkedout">Ei saatavissa</span></div>
@@ -1836,7 +1836,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     
     <div class="resultItemLine3">
                           <span class="tiny">
-        Sijainti: <a href="/finna/Record/jykdok.378755" class="title">Jyväskylän yliopisto</a> (Muut sijainnit: <a href="/finna/Record/fennica.292997" class="title">Kansalliskirjasto</a>)        <br>
+        Tietokannassa: <a href="/finna/Record/jykdok.378755" class="title">Jyväskylän yliopisto</a> (Muissa tietokannoissa: <a href="/finna/Record/fennica.292997" class="title">Kansalliskirjasto</a>)        <br>
         </span>
             <div id="callnumAndLocationjykdok.378755">
                       <div style="display: block;" class="hide noLoad" id="statusjykdok.378755"><span class="available">Saatavissa</span></div>
