@@ -16,4 +16,7 @@
   .offscreen {
     display: none !important
   }
+  select {
+    visibility: visible !important
+  }
 </style>

@@ -252,8 +252,8 @@
         <label style="text-indent: -10000px;" for="searchForm_input" id="searchFormLabel" class="labelOver normal">Hae…</label>
         <div style="position: relative;" class="undefined_div"><input aria-haspopup="true" aria-autocomplete="list" role="textbox" autocomplete="off" id="searchForm_input" name="lookfor" value="<?php print $_GET['lookfor'] ?>" class="last autocomplete typeSelector:searchForm_type clearable ui-autocomplete-input" title="Hae…" type="text"><a style="position: absolute; cursor: pointer; top: 7.5px; left: 341.5px;" class="clear_input" href="#" onclick="return false;"><span class="hidden-visually">Tyhjennä hakusana</span></a></div>
       </div>
-              <div class="styled_select">
-        <dl id="styled_searchForm_filter0" class="dropdown searchForm_filter"><dt><a href="#">Koko tietokannasta<span class="value">-</span></a></dt><dd><ul style="display: none;"><li><a href="#" class="big">Koko tietokannasta<span class="value">-</span></a></li><li><a href="#" class="big">Arkistoista<span class="value">archives</span></a></li><li><a href="#" class="big">Kirjastoista<span class="value">libraries</span></a></li><li><a href="#" class="big">Museoista<span class="value">museums</span></a></li><li><a href="#" class="big">Asiakirja<span class="value">format_Document</span></a></li><li><a href="#" class="big">Esine<span class="value">format_PhysicalObject</span></a></li><li><a href="#" class="big">Kartta<span class="value">format_Map</span></a></li><li><a href="#" class="big">Kirja<span class="value">format_Book</span></a></li><li><a href="#" class="big">Kuva<span class="value">format_Image</span></a></li><li><a href="#" class="big">Lehti/Artikkeli<span class="value">format_Journal</span></a></li><li><a href="#" class="big">Muu<span class="value">format_Other</span></a></li><li><a href="#" class="big">Opinnäyte<span class="value">format_Thesis</span></a></li><li><a href="#" class="big">Taideteos<span class="value">format_WorkOfArt</span></a></li><li><a href="#" class="big">Tietokanta<span class="value">format_Database</span></a></li><li><a href="#" class="big">Video<span class="value">format_Video</span></a></li><li><a href="#" class="big">Ääni<span class="value">format_Sound</span></a></li></ul></dd></dl><select style="display: none;" id="searchForm_filter" class="searchForm_styled stylingDone" name="prefilter">
+<div class="styled_select">
+        <select id="searchForm_filter" class="searchForm_styled" name="prefilter">
         
           <option value="-" selected="selected">Koko tietokannasta</option>
         
@@ -287,7 +287,7 @@
         
           <option value="format_Sound">Ääni</option>
             </select>
-      </div>
+       </div>
 
         <input id="searchForm_searchButton" name="SearchForm_submit" value="Hae" type="submit">
       <div class="clear"></div>
@@ -525,16 +525,16 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
         <div class="viewButtons">
                   </div>
         -->
-        <div class="resultOptionSort">
+               <div class="resultOptionSort">
           <form action="/Search/SortResults" method="post">
             <label for="sort_options_1">Järjestä</label>
-            <dl id="styled_sort_options_11" class="dropdown sort_options_1"><dt><a href="#">Relevanssi<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list</span></a></dt><dd><ul style="display: none;"><li><a href="#" class="big">Relevanssi<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list</span></a></li><li><a href="#" class="big">Aika (uusimmat ensin)<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+desc&amp;view=list</span></a></li><li><a href="#" class="big">Aika (vanhimmat ensin)<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+asc&amp;view=list</span></a></li><li><a href="#" class="big">Tekijä<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=author&amp;view=list</span></a></li><li><a href="#" class="big">Nimeke<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=title&amp;view=list</span></a></li><li><a href="#" class="big">Viimeksi lisätty<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=last_indexed+desc&amp;view=list</span></a></li></ul></dd></dl><select style="display: none;" id="sort_options_1" name="sort" class="jumpMenu stylingDone">
-                              <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">Relevanssi</option>
-                              <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+desc&amp;view=list">Aika (uusimmat ensin)</option>
-                              <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+asc&amp;view=list">Aika (vanhimmat ensin)</option>
-                              <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=author&amp;view=list">Tekijä</option>
-                              <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=title&amp;view=list">Nimeke</option>
-                              <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=last_indexed+desc&amp;view=list">Viimeksi lisätty</option>
+            <select id="sort_options_1" name="sort" class="jumpMenu">
+                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">Relevanssi</option>
+                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+desc&amp;view=list">Aika (uusimmat ensin)</option>
+                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+asc&amp;view=list">Aika (vanhimmat ensin)</option>
+                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=author&amp;view=list">Tekijä</option>
+                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=title&amp;view=list">Nimeke</option>
+                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=last_indexed+desc&amp;view=list">Viimeksi lisätty</option>
                           </select>
             <noscript><input type="submit" value="Aseta" /></noscript>
           </form>
@@ -543,10 +543,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
         <div class="resultOptionLimit"> 
                       <form action="/Search/LimitResults" method="post">
               <label for="limit">Tuloksia sivulla</label>
-              <dl id="styled_limit2" class="dropdown limit"><dt><a href="#">20<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list</span></a></dt><dd><ul style="display: none;"><li><a href="#" class="big">20<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list</span></a></li><li><a href="#" class="big">50<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list&amp;limit=50</span></a></li><li><a href="#" class="big">100<span class="value">/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list&amp;limit=100</span></a></li></ul></dd></dl><select style="display: none;" class="jumpMenu stylingDone" id="limit" name="limit">
-                                  <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">20</option>
-                                  <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list&amp;limit=50">50</option>
-                                  <option value="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list&amp;limit=100">100</option>
+              <select class="jumpMenu" id="limit" name="limit">
+                                  <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">20</option>
+                                  <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list&amp;limit=50">50</option>
+                                  <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list&amp;limit=100">100</option>
                               </select>
               <noscript><input type="submit" value="Aseta" /></noscript>
             </form>
