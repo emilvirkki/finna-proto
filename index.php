@@ -146,7 +146,7 @@
             <!-- START of: header-menu.fi.tpl -->
 <li class="menuHome"><a href="/finna/"><span></span><div class="hidden-visually">Etusivu</div></a></li>
 
-<li class="menuAbout"><a href="/finna/Content/about"><span>Tietoa</span></a></li>
+<li class="menuAbout"><a href="/finna/Content/about"><span>Tietoa Finnasta</span></a></li>
 
 <li class="menuSearch menuSearch_fi"><a href="#"><span>Haku</span></a>
   <ul class="subNav">
@@ -527,7 +527,7 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
           <!-- START of: footer.tpl -->
 
 <div class="grid_8">
-  <h4>Tietoa</h4>
+  <h4>Tietoa Finnasta</h4>
   <ul>
     <li><a href="/finna/Content/about">Tietoa Finnasta</a></li>
     <li><a href="/finna/Content/terms_conditions">Käyttöehdot</a></li>
