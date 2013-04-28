@@ -3,9 +3,9 @@
   .dropdown dt a span {
     display: none !important
   }
-  .hidden-visually {
+  .hidden-visually, .recordNumber {
     position: absolute;
-    display: block;
+    display: block !important;
     width: 0;
     height: 0;
     margin: 0;
