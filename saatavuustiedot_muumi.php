@@ -554,25 +554,25 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <h2>Samankaltaisia teoksia</h2>
     <ul class="similar">
         <li>
-              <a href="/finna/Record/jykdok.1078228" title="Muumi">Muumi</a>
+              <a href="/finna/Record/jykdok.1078228" title="Muumi">Muumi
             <br>
-             2008    </li>
+             Kooste, 2008    </a></li>
         <li>
-              <a href="/finna/Record/jykdok.1078232" title="Muumi">Muumi</a>
+              <a href="/finna/Record/jykdok.1078232" title="Muumi">Muumi
             <br>
-             2008    </li>
+             Kooste, 2008    </a></li>
         <li>
-              <a href="/finna/Record/jykdok.182069" title="Muumi">Muumi</a>
+              <a href="/finna/Record/jykdok.182069" title="Muumi">Muumi
             <br>
-             1984    </li>
+             Aikakauslehti, 1984 - 1985    </a></li>
         <li>
-              <a href="/finna/Record/fennica.899385" title="Muumi">Muumi</a>
+              <a href="/finna/Record/fennica.899385" title="Muumi">Muumi
             <br>
-             2008    </li>
+             Kooste, 2008    </a></li>
         <li>
-              <a href="/finna/Record/viola.1158419" title="Muumi">Muumi</a>
+              <a href="/finna/Record/viola.1158419" title="Muumi">Muumi
             <br>
-                 </li>
+                 Äänikasetti</a></li>
       </ul>
   </div>
 
