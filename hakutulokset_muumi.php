@@ -526,7 +526,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
                   </div>
         -->
                <div class="resultOptionSort">
-          <form action="/Search/SortResults" method="post">
+          <form action="/finna/Search/SortResults" method="post">
             <label for="sort_options_1">Järjestä</label>
             <select id="sort_options_1" name="sort" class="jumpMenu">
                               <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">Osuvuus hakuun</option>
@@ -541,7 +541,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
         </div>
 
         <div class="resultOptionLimit"> 
-                      <form action="/Search/LimitResults" method="post">
+                      <form action="/finna/Search/LimitResults" method="post">
               <label for="limit">Tuloksia sivulla</label>
               <select class="jumpMenu" id="limit" name="limit">
                                   <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">20</option>
