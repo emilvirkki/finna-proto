@@ -1874,7 +1874,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
 <div class="sidegroup">
   <h2 id="rajaa">Rajaa hakua</h2>                      <dl class="narrowList navmenu collapsed open collapsible">
-        <dt>Sijainti</dt>
+        <dt><h3>Sijainti</h3></dt>
       </dl>
 
 <script type="text/javascript">
@@ -1891,7 +1891,7 @@ $(document).ready(function() {
         <span style="display: none;" class="facet_loading hide"></span>
       <ul class="dynatree-container"><li class=""><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-exp-cd dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=building%3A%220%2FNLF%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Kansalliskirjasto">Kansalliskirjasto</span><span class="facetCount"> (883)</span></a></span></li><li class="dynatree-lastsib"><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-lastsib dynatree-exp-cdl dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=building%3A%220%2FJYU%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Jyväskylän yliopisto">Jyväskylän yliopisto</span><span class="facetCount"> (385)</span></a></span></li></ul></div>
                   <dl class="narrowList navmenu collapsed open collapsible">
-        <dt>Aineistotyyppi</dt>
+        <dt><h3>Aineistotyyppi</h3></dt>
       </dl>
 
 <script type="text/javascript">
@@ -1908,13 +1908,13 @@ $(document).ready(function() {
         <span style="display: none;" class="facet_loading hide"></span>
       <ul class="dynatree-container"><li class=""><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-exp-cd dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=format%3A%220%2FBook%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Kirja">Kirja</span><span class="facetCount"> (489)</span></a></span></li><li class=""><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-exp-cd dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=format%3A%220%2FJournal%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Lehti/Artikkeli">Lehti/Artikkeli</span><span class="facetCount"> (196)</span></a></span></li><li class=""><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-exp-cd dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=format%3A%220%2FSound%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Äänitallenne">Äänitallenne</span><span class="facetCount"> (129)</span></a></span></li><li class=""><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-exp-cd dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=format%3A%220%2FOther%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Muu">Muu</span><span class="facetCount"> (61)</span></a></span></li><li class=""><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-exp-cd dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=format%3A%220%2FThesis%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Opinnäyte">Opinnäyte</span><span class="facetCount"> (15)</span></a></span></li><li class=""><span class="dynatree-node dynatree-exp-c dynatree-ico-c"><span class="dynatree-connector"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=format%3A%220%2FMusicalScore%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Nuotti">Nuotti</span><span class="facetCount"> (13)</span></a></span></li><li class="dynatree-lastsib"><span class="dynatree-node dynatree-has-children dynatree-lazy dynatree-lastsib dynatree-exp-cdl dynatree-ico-c"><span class="dynatree-expander"></span><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=format%3A%220%2FVideo%22&amp;view=list" class="dynatree-title"><span class="facetTitle" title="Video">Video</span><span class="facetCount"> (4)</span></a></span></li></ul></div>
                   <dl class="narrowList navmenu collapsible">
-        <dt>Tekijä</dt>
+        <dt><h3>Tekijä</h3></dt>
                                         <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Jansson%2C+Tove%22&amp;view=list">Jansson, Tove&nbsp;<span class="facetCount">(146)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Sonesson%2C+Harald%22&amp;view=list">Sonesson, Harald&nbsp;<span class="facetCount">(16)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Bagge%2C+Tapani%22&amp;view=list">Bagge, Tapani&nbsp;<span class="facetCount">(12)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Malila%2C+Sami%22&amp;view=list">Malila, Sami&nbsp;<span class="facetCount">(11)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Saarinen%2C+Teemu%22&amp;view=list">Saarinen, Teemu&nbsp;<span class="facetCount">(11)</span></a></dd>
-                                      <dd id="moreauthorStr"><a href="#" onclick="moreFacets('authorStr'); return false;">lisää ...</a></dd>
+                                      <dd id="moreauthorStr"><a href="#" onclick="moreFacets('authorStr'); return false;">lisää tekijöitä...</a></dd>
         </dl>
         <dl class="narrowList navmenu offscreen collapsible" id="narrowGroupHidden_authorStr">
                                 <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Alan%2C+Clive%22&amp;view=list">Alan, Clive&nbsp;<span class="facetCount">(10)</span></a></dd>
@@ -1942,15 +1942,15 @@ $(document).ready(function() {
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Niemi%2C+Juhani%22&amp;view=list">Niemi, Juhani&nbsp;<span class="facetCount">(3)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Sarmavuori%2C+Katri%22&amp;view=list">Sarmavuori, Katri&nbsp;<span class="facetCount">(3)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=authorStr%3A%22Saukkola%2C+Mirva%22&amp;view=list">Saukkola, Mirva&nbsp;<span class="facetCount">(3)</span></a></dd>
-                          <dd><a href="#" onclick="lessFacets('authorStr'); return false;">vähemmän ...</a></dd>      </dl>
+                          <dd><a href="#" onclick="lessFacets('authorStr'); return false;">vähemmän tekijöitä ...</a></dd>      </dl>
                   <dl class="narrowList navmenu collapsible">
-        <dt>Kieli</dt>
+        <dt><h3>Kieli</h3></dt>
                                         <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22fin%22&amp;view=list">suomi&nbsp;<span class="facetCount">(768)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22swe%22&amp;view=list">ruotsi&nbsp;<span class="facetCount">(44)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22eng%22&amp;view=list">englanti&nbsp;<span class="facetCount">(26)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22jpn%22&amp;view=list">japani&nbsp;<span class="facetCount">(8)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22est%22&amp;view=list">viro&nbsp;<span class="facetCount">(7)</span></a></dd>
-                                      <dd id="morelanguage"><a href="#" onclick="moreFacets('language'); return false;">lisää ...</a></dd>
+                                      <dd id="morelanguage"><a href="#" onclick="moreFacets('language'); return false;">lisää kieliä ...</a></dd>
         </dl>
         <dl class="narrowList navmenu offscreen collapsible" id="narrowGroupHidden_language">
                                 <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22hun%22&amp;view=list">unkari&nbsp;<span class="facetCount">(4)</span></a></dd>
@@ -1961,15 +1961,15 @@ $(document).ready(function() {
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22dut%22&amp;view=list">hollanti&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22ger%22&amp;view=list">saksa&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=language%3A%22rus%22&amp;view=list">venäjä&nbsp;<span class="facetCount">(1)</span></a></dd>
-                          <dd><a href="#" onclick="lessFacets('language'); return false;">vähemmän ...</a></dd>      </dl>
+                          <dd><a href="#" onclick="lessFacets('language'); return false;">vähemmän kieliä ...</a></dd>      </dl>
                   <dl class="narrowList navmenu collapsible">
-        <dt>Vuosi</dt>
+        <dt><h3>Vuosi</h3></dt>
                                         <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%222010%22&amp;view=list">2010&nbsp;<span class="facetCount">(77)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%221993%22&amp;view=list">1993&nbsp;<span class="facetCount">(51)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%222009%22&amp;view=list">2009&nbsp;<span class="facetCount">(48)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%222011%22&amp;view=list">2011&nbsp;<span class="facetCount">(47)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%222000%22&amp;view=list">2000&nbsp;<span class="facetCount">(46)</span></a></dd>
-                                      <dd id="moremain_date_str"><a href="#" onclick="moreFacets('main_date_str'); return false;">lisää ...</a></dd>
+                                      <dd id="moremain_date_str"><a href="#" onclick="moreFacets('main_date_str'); return false;">lisää vuosia ...</a></dd>
         </dl>
         <dl class="narrowList navmenu offscreen collapsible" id="narrowGroupHidden_main_date_str">
                                 <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%221994%22&amp;view=list">1994&nbsp;<span class="facetCount">(42)</span></a></dd>
@@ -1997,30 +1997,30 @@ $(document).ready(function() {
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%221979%22&amp;view=list">1979&nbsp;<span class="facetCount">(5)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%221986%22&amp;view=list">1986&nbsp;<span class="facetCount">(5)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=main_date_str%3A%221962%22&amp;view=list">1962&nbsp;<span class="facetCount">(4)</span></a></dd>
-                          <dd><a href="#" onclick="lessFacets('main_date_str'); return false;">vähemmän ...</a></dd>      </dl>
+                          <dd><a href="#" onclick="lessFacets('main_date_str'); return false;">vähemmän vuosia ...</a></dd>      </dl>
                   <dl class="narrowList navmenu collapsible">
-        <dt>Genre</dt>
+        <dt><h3>Genre</h3></dt>
                                         <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Kokoelmat%22&amp;view=list">Kokoelmat&nbsp;<span class="facetCount">(3)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Kirja-arvostelut%22&amp;view=list">Kirja-arvostelut&nbsp;<span class="facetCount">(2)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Singlet%22&amp;view=list">Singlet&nbsp;<span class="facetCount">(2)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Albumit%22&amp;view=list">Albumit&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Asiakaslehdet%22&amp;view=list">Asiakaslehdet&nbsp;<span class="facetCount">(1)</span></a></dd>
-                                      <dd id="moregenre_facet"><a href="#" onclick="moreFacets('genre_facet'); return false;">lisää ...</a></dd>
+                                      <dd id="moregenre_facet"><a href="#" onclick="moreFacets('genre_facet'); return false;">lisää genrejä ...</a></dd>
         </dl>
         <dl class="narrowList navmenu offscreen collapsible" id="narrowGroupHidden_genre_facet">
                                 <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Haastattelut%22&amp;view=list">Haastattelut&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Sarjakuvalehdet%22&amp;view=list">Sarjakuvalehdet&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Sarjakuvat%22&amp;view=list">Sarjakuvat&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=genre_facet%3A%22Tiedotuslehdet%22&amp;view=list">Tiedotuslehdet&nbsp;<span class="facetCount">(1)</span></a></dd>
-                          <dd><a href="#" onclick="lessFacets('genre_facet'); return false;">vähemmän ...</a></dd>      </dl>
+                          <dd><a href="#" onclick="lessFacets('genre_facet'); return false;">vähemmän genrejä ...</a></dd>      </dl>
                   <dl class="narrowList navmenu collapsible">
-        <dt>Aikakausi</dt>
+        <dt><h3>Aikakausi</h3></dt>
                                         <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%221990-luku%22&amp;view=list">1990-luku&nbsp;<span class="facetCount">(36)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%222000-2009%22&amp;view=list">2000-2009&nbsp;<span class="facetCount">(26)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%221980-luku%22&amp;view=list">1980-luku&nbsp;<span class="facetCount">(18)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%221970-luku%22&amp;view=list">1970-luku&nbsp;<span class="facetCount">(8)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%221950-luku%22&amp;view=list">1950-luku&nbsp;<span class="facetCount">(5)</span></a></dd>
-                                      <dd id="moreera_facet"><a href="#" onclick="moreFacets('era_facet'); return false;">lisää ...</a></dd>
+                                      <dd id="moreera_facet"><a href="#" onclick="moreFacets('era_facet'); return false;">lisää aikakausia ...</a></dd>
         </dl>
         <dl class="narrowList navmenu offscreen collapsible" id="narrowGroupHidden_era_facet">
                                 <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%221960-luku%22&amp;view=list">1960-luku&nbsp;<span class="facetCount">(5)</span></a></dd>
@@ -2042,15 +2042,15 @@ $(document).ready(function() {
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%222005%22&amp;view=list">2005&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%222007%22&amp;view=list">2007&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=era_facet%3A%222011%22&amp;view=list">2011&nbsp;<span class="facetCount">(1)</span></a></dd>
-                          <dd><a href="#" onclick="lessFacets('era_facet'); return false;">vähemmän ...</a></dd>      </dl>
+                          <dd><a href="#" onclick="lessFacets('era_facet'); return false;">vähemmän aikakausia ...</a></dd>      </dl>
                   <dl class="narrowList navmenu collapsible">
-        <dt>Alue</dt>
+        <dt><h3>Alue</h3></dt>
                                         <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Suomi%22&amp;view=list">Suomi&nbsp;<span class="facetCount">(116)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Tampere%22&amp;view=list">Tampere&nbsp;<span class="facetCount">(17)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Finland%22&amp;view=list">Finland&nbsp;<span class="facetCount">(5)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Naantali%22&amp;view=list">Naantali&nbsp;<span class="facetCount">(5)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Norja%22&amp;view=list">Norja&nbsp;<span class="facetCount">(4)</span></a></dd>
-                                      <dd id="moregeographic_facet"><a href="#" onclick="moreFacets('geographic_facet'); return false;">lisää ...</a></dd>
+                                      <dd id="moregeographic_facet"><a href="#" onclick="moreFacets('geographic_facet'); return false;">lisää alueita ...</a></dd>
         </dl>
         <dl class="narrowList navmenu offscreen collapsible" id="narrowGroupHidden_geographic_facet">
                                 <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Japani%22&amp;view=list">Japani&nbsp;<span class="facetCount">(3)</span></a></dd>
@@ -2078,7 +2078,7 @@ $(document).ready(function() {
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Pietari%22&amp;view=list">Pietari&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Pohjois-Eurooppa%22&amp;view=list">Pohjois-Eurooppa&nbsp;<span class="facetCount">(1)</span></a></dd>
                                                   <dd><a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;filter%5B%5D=geographic_facet%3A%22Puola%22&amp;view=list">Puola&nbsp;<span class="facetCount">(1)</span></a></dd>
-                          <dd><a href="#" onclick="lessFacets('geographic_facet'); return false;">vähemmän ...</a></dd>      </dl>
+                          <dd><a href="#" onclick="lessFacets('geographic_facet'); return false;">vähemmän alueita ...</a></dd>      </dl>
           </div>
 
 <!-- END of: Search/Recommend/SideFacets.tpl -->                          </div>

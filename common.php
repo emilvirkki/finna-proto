@@ -13,4 +13,7 @@
     border: 0;
     overflow: hidden;
   }
+  .offscreen {
+    display: none !important
+  }
 </style>
