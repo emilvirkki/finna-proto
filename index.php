@@ -525,9 +525,9 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
       <div id="footer" class="clearfix">
         <div class="content">
           <!-- START of: footer.tpl -->
-
+<h2 class="hidden-visually">Linkkejä</h2>
 <div class="grid_8">
-  <h4>Tietoa Finnasta</h4>
+  <h3>Tietoa Finnasta</h3>
   <ul>
     <li><a href="/finna/Content/about">Tietoa Finnasta</a></li>
     <li><a href="/finna/Content/terms_conditions">Käyttöehdot</a></li>
@@ -536,7 +536,7 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
 </div>
 
 <div class="grid_8">
-  <h4>Haku</h4>
+  <h3>Haku</h3>
   <ul>
     <li><a href="/finna/Search/History">Hakuhistoria</a></li>
     <li><a href="/finna/Search/Advanced">Tarkennettu haku</a></li>
@@ -545,7 +545,7 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
 </div>
 
  <div class="grid_8">
-  <h4>Ohje</h4>
+  <h3>Ohje</h3>
   <ul>
     <li><a href="/finna/Content/searchhelp">Hakuohje</a></li>
     <li><a href="/finna/Feedback/Home">Palaute</a></li>
@@ -553,6 +553,7 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
 </div>
 
 <div id="footerSeparator"></div>
+<hr>
 
 <div class="grid_8">
    <a href="http://finna.fi/" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/finna_logo_small.png" alt="Etusivu"></a>
