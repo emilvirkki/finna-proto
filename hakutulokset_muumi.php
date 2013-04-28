@@ -529,7 +529,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
           <form action="/Search/SortResults" method="post">
             <label for="sort_options_1">Järjestä</label>
             <select id="sort_options_1" name="sort" class="jumpMenu">
-                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">Relevanssi</option>
+                              <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list" selected="selected">Osuvuus hakuun</option>
                               <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+desc&amp;view=list">Aika (uusimmat ensin)</option>
                               <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=main_date_str+asc&amp;view=list">Aika (vanhimmat ensin)</option>
                               <option value="https://www.finna.fi/Search/Results?lookfor=muumi&amp;type=AllFields&amp;sort=author&amp;view=list">Tekijä</option>
@@ -630,7 +630,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.358930" href="/finna/Record/jykdok.358930/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordjykdok.358930" href="/finna/Record/jykdok.358930/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin:  Muumi , Aikakauslehti, 1991 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -693,7 +693,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.182069" href="/finna/Record/jykdok.182069/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordjykdok.182069" href="/finna/Record/jykdok.182069/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin:  Muumi , Aikakauslehti, 1984 - 1985 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -754,7 +755,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.1158419" href="/finna/Record/viola.1158419/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.1158419" href="/finna/Record/viola.1158419/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin:  Muumi , Äänikasetti </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -816,7 +818,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.218830" href="/finna/Record/viola.218830/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.218830" href="/finna/Record/viola.218830/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin:  Muumi muumi ; Hei mies -räp , Äänilevy, 1987 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -877,7 +880,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.212721" href="/finna/Record/viola.212721/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.212721" href="/finna/Record/viola.212721/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Muumi 2 : 14 uutta Muumi laulua , Äänilevy, 1993 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -943,7 +947,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.200583" href="/finna/Record/viola.200583/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.200583" href="/finna/Record/viola.200583/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Lasten ikioma muumi : 14 alkuperäistä Muumi laulua , Äänilevy, 1992</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1012,7 +1017,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.1391554" href="/finna/Record/arto.1391554/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordarto.1391554" href="/finna/Record/arto.1391554/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Muumi-buumissa hiljaisempi kausi , Artikkeli, 1994 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1077,7 +1083,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.954374" href="/finna/Record/arto.954374/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordarto.954374" href="/finna/Record/arto.954374/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Muumi-postiemerkki on nukkapintainen ja pehmeä , Artikkeli, 2004 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1143,7 +1150,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.1320113" href="/finna/Record/arto.1320113/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordarto.1320113" href="/finna/Record/arto.1320113/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Muumi ja muut peikot , Artikkeli, 2007 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1206,7 +1214,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.655400" href="/finna/Record/viola.655400/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.655400" href="/finna/Record/viola.655400/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Parhaat Muumi laulut , Äänilevy, 2002</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1269,7 +1278,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712816" href="/finna/Record/viola.712816/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.712816" href="/finna/Record/viola.712816/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Uusia Muumi-lauluja. 1. , Äänilevy, 2006</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1332,7 +1342,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712817" href="/finna/Record/viola.712817/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.712817" href="/finna/Record/viola.712817/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Uusia Muumi-lauluja. 2. , Äänilevy, 2006</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1395,7 +1406,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712818" href="/finna/Record/viola.712818/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.712818" href="/finna/Record/viola.712818/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Uusia Muumi-lauluja. 3. , Äänilevy, 2006</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1458,7 +1470,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712819" href="/finna/Record/viola.712819/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.712819" href="/finna/Record/viola.712819/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Uusia Muumi-lauluja. 4. , Äänilevy, 2006</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1521,7 +1534,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.712820" href="/finna/Record/viola.712820/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.712820" href="/finna/Record/viola.712820/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Uusia Muumi-lauluja. 5. , Äänilevy, 2006</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1584,7 +1598,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordviola.832999" href="/finna/Record/viola.832999/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordviola.832999" href="/finna/Record/viola.832999/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin:  Muumi-musiikkia Juniorilta , Äänilevy, 2008 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1652,7 +1667,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.1078228" href="/finna/Record/jykdok.1078228/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordjykdok.1078228" href="/finna/Record/jykdok.1078228/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin:  Muumi , Kooste, 2008 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1722,7 +1738,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordfennica.1002824" href="/finna/Record/fennica.1002824/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordfennica.1002824" href="/finna/Record/fennica.1002824/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin: Vaunukaveri : muumi , Kirja, 2011</span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1791,7 +1808,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordarto.697034" href="/finna/Record/arto.697034/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordarto.697034" href="/finna/Record/arto.697034/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin:  Muumi, josta tuli Robin Hood , Artikkeli, 1994 </span></a>
   </div>
   <div class="clear"></div>
 </div>
@@ -1858,7 +1876,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
     </div>
     </div>
   <div class="last addToFavLink">
-    <a id="saveRecordjykdok.378755" href="/finna/Record/jykdok.378755/Save" class="fav tool saveRecord" title="Lisää suosikkeihin"><span class="hidden-visually">Lisää suosikkeihin</span></a>
+    <a id="saveRecordjykdok.378755" href="/finna/Record/jykdok.378755/Save" class="fav tool saveRecord" title="Lisää suosikkeihin">
+      <span class="hidden-visually">Lisää suosikkeihin:  Muumi : tarra-albumi , Kirja, 1992 </span></a>
   </div>
   <div class="clear"></div>
 </div>
