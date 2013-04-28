@@ -580,10 +580,10 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
   <h2>Muut painokset</h2>
   <ul class="similar">
         <li>
-            <a href="/finna/Record/jykdok.358930" title="Muumi">Muumi</a>
+            <a href="/finna/Record/jykdok.358930" title="Muumi">Muumi
             <br>
       
-      1991    </li>
+      Aikakauslehti, 1991</a>    </li>
       </ul>
 </div>
 </div>

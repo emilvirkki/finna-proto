@@ -574,7 +574,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
   <ul class="recordSet">
       <li class="result">
-      <span class="recordNumber">1</span>
+      <span class="recordNumber">Tulos 1</span>
             <div class="result recordId" id="recordjykdok.358930">
 
 <div class="resultColumn1">
@@ -637,7 +637,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">2</span>
+      <span class="recordNumber">Tulos 2</span>
             <div class="result recordId" id="recordjykdok.182069">
 
 <div class="resultColumn1">
@@ -702,7 +702,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">3</span>
+      <span class="recordNumber">Tulos 3</span>
             <div class="result recordId" id="recordviola.1158419">
 
 <div class="resultColumn1">
@@ -764,7 +764,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">4</span>
+      <span class="recordNumber">Tulos 4</span>
             <div class="result recordId" id="recordviola.218830">
 
 <div class="resultColumn1">
@@ -827,7 +827,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">5</span>
+      <span class="recordNumber">Tulos 5</span>
             <div class="result recordId" id="recordviola.212721">
 
 <div class="resultColumn1">
@@ -889,7 +889,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">6</span>
+      <span class="recordNumber">Tulos 6</span>
             <div class="result recordId" id="recordviola.200583">
 
 <div class="resultColumn1">
@@ -956,7 +956,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">7</span>
+      <span class="recordNumber">Tulos 7</span>
             <div class="result recordId" id="recordarto.1391554">
 
 <div class="resultColumn1">
@@ -1026,7 +1026,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">8</span>
+      <span class="recordNumber">Tulos 8</span>
             <div class="result recordId" id="recordarto.954374">
 
 <div class="resultColumn1">
@@ -1092,7 +1092,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">9</span>
+      <span class="recordNumber">Tulos 9</span>
             <div class="result recordId" id="recordarto.1320113">
 
 <div class="resultColumn1">
@@ -1159,7 +1159,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">10</span>
+      <span class="recordNumber">Tulos 10</span>
             <div class="result recordId" id="recordviola.655400">
 
 <div class="resultColumn1">
@@ -1223,7 +1223,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">11</span>
+      <span class="recordNumber">Tulos 11</span>
             <div class="result recordId" id="recordviola.712816">
 
 <div class="resultColumn1">
@@ -1287,7 +1287,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">12</span>
+      <span class="recordNumber">Tulos 12</span>
             <div class="result recordId" id="recordviola.712817">
 
 <div class="resultColumn1">
@@ -1351,7 +1351,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">13</span>
+      <span class="recordNumber">Tulos 13</span>
             <div class="result recordId" id="recordviola.712818">
 
 <div class="resultColumn1">
@@ -1415,7 +1415,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">14</span>
+      <span class="recordNumber">Tulos 14</span>
             <div class="result recordId" id="recordviola.712819">
 
 <div class="resultColumn1">
@@ -1479,7 +1479,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">15</span>
+      <span class="recordNumber">Tulos 15</span>
             <div class="result recordId" id="recordviola.712820">
 
 <div class="resultColumn1">
@@ -1543,7 +1543,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">16</span>
+      <span class="recordNumber">Tulos 16</span>
             <div class="result recordId" id="recordviola.832999">
 
 <div class="resultColumn1">
@@ -1607,7 +1607,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">17</span>
+      <span class="recordNumber">Tulos 17</span>
             <div class="result recordId" id="recordjykdok.1078228">
 
 <div class="resultColumn1">
@@ -1676,7 +1676,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">18</span>
+      <span class="recordNumber">Tulos 18</span>
             <div class="result recordId" id="recordfennica.1002824">
 
 <div class="resultColumn1">
@@ -1747,7 +1747,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result">
-      <span class="recordNumber">19</span>
+      <span class="recordNumber">Tulos 19</span>
             <div class="result recordId" id="recordarto.697034">
 
 <div class="resultColumn1">
@@ -1817,7 +1817,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 
     </li>
       <li class="result alt">
-      <span class="recordNumber">20</span>
+      <span class="recordNumber">Tulos 20</span>
             <div class="result recordId" id="recordjykdok.378755">
 
 <div class="resultColumn1">
