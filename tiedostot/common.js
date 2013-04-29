@@ -198,7 +198,7 @@ function initAutocomplete() {
 	            });
 	        }
 	    });
-
+  ac.data("autocomplete", {})
 	ac.data( "autocomplete" )._renderItem = function(ul, item) {
         var label = item.label.replace(new RegExp("(?![^&;]+;)(?!<[^<>]*)(" 
         				+ $.ui.autocomplete.escapeRegex(this.term) 

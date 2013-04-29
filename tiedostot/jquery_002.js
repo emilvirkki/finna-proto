@@ -43,12 +43,12 @@
 					var $this = $(this), btn;
 
 					if (!$this.parent().hasClass(settings.divClass)) {
-						$this.wrap('<div style="position: relative;" class="'
-							+ settings.divClass + '">' + $this.html() + '</div>');
-						$this.after('<a style="position: absolute; cursor: pointer;" class="'
-							+ settings.clearClass + '">' + settings.linkText + '</a>');
+						//$this.wrap('<div style="position: relative;" class="'
+						//	+ settings.divClass + '">' + $this.html() + '</div>');
+						//$this.after('<a style="position: absolute; cursor: pointer;" class="'
+						//	+ settings.clearClass + '">' + settings.linkText + '</a>');
 					}
-					btn = $this.next();
+					btn = $this.next().next();
 
 					function clearField() {
 						$this.val('').change();

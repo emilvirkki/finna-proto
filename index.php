@@ -268,7 +268,7 @@ tukkipinoja. Pielisjärvi (Lieksa), Pohjois-Karjala.</p>
         <label style="text-indent: 0px;" for="searchForm_input" id="searchFormLabel" class="labelOver normal">Hae…</label>
         <div style="position: relative;" class="undefined_div">
           <input id="searchForm_input" type="text" name="lookfor" value="" class="last autocomplete typeSelector:searchForm_type clearable mainFocus" title='Hae&hellip;' />
-          <a style="position: absolute; cursor: pointer; display: none; top: 7.5px; left: 341.5px;" class="clear_input" href="#" onclick="return false;"><span class="hidden-visually">Tyhjennä hakusana</span></a></div>
+          <a style="position: absolute; cursor: pointer; top: 7.5px; left: 341.5px;" class="clear_input" href="#" onclick="return false;"><span class="hidden-visually">Tyhjennä hakusana</span></a></div>
       </div>
 <div class="styled_select">
         <select id="searchForm_filter" class="searchForm_styled" name="prefilter">
