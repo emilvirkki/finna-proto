@@ -345,7 +345,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
 <div class="resultLinks">
   <div class="content">
         <div class="backToResults grid_12">
-        <a href="/finna/Search/Results?lookfor=muumi&amp;type=AllFields&amp;view=list#recordjykdok.358930"><div class="button buttonFinna icon"><span class="icon">«</span></div>Takaisin hakutuloksiin</a>
+        <a href="/finna/hakutulokset_muumi?lookfor=<?php print $_GET['lookfor'] ?>"><div class="button buttonFinna icon"><span class="icon"></span></div>Takaisin hakutuloksiin</a>
     </div>
         <div class="resultscroller grid_5 push_7">
     <span class="prevRecord inactive"><span class="resultNav">Edellinen hakutulos</span></span>    1 / 907
