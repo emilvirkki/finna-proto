@@ -611,6 +611,8 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
       </ul><div class="ui-tabs-panel ui-widget-content ui-corner-bottom" id="ui-tabs-1">  <!-- START of: Record/view-holdings.tpl -->
 <div class="content">
   <div class="grid_24">
+    
+    Saatavissa: Ei tiedossa
   
   <!-- START of: RecordDrivers/Index/holdings.tpl -->
 
