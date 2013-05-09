@@ -2192,10 +2192,10 @@ $(document).ready(function() {
    <a href="http://finna.fi/" class="footerLogo"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/finna_logo_small.png" alt="Etusivu"></a>
 </div>
 <div class="grid_8">
-            <a href="http://www.kdk.fi/" target="_blank" class="footerLogo"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/kdk_logo_fi.png" alt="KDK-logo"></a>
+            <a href="http://www.kdk.fi/" target="_blank" class="footerLogo"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/kdk_logo_fi.png" alt=""KDK-logo"Kansallinen digitaalinen kirjasto -hanke"></a>
   </div>
 <div class="grid_8">
-  <a href="http://www.vufind.org/" target="_blank" class="footerLogo"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/vufind_logo_small.png" alt="vufind-logo"></a>
+  <a href="http://www.vufind.org/" target="_blank" class="footerLogo"><img src="Finna%20-%20Hakutulokset%20-%20muumi_tiedostot/vufind_logo_small.png" alt="Tietoa Vufind-järjestelmästä"></a>
   
     </div>
 

@@ -561,10 +561,10 @@ JYX:istä ladattiin yli 1,5 miljoonaa tiedostoa.
    <a href="http://finna.fi/" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/finna_logo_small.png" alt="Etusivu"></a>
 </div>
 <div class="grid_8">
-            <a href="http://www.kdk.fi/" target="_blank" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/kdk_logo_fi.png" alt="KDK-logo"></a>
+            <a href="http://www.kdk.fi/" target="_blank" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/kdk_logo_fi.png" alt="Kansallinen digitaalinen kirjasto -hanke"></a>
   </div>
 <div class="grid_8">
-  <a href="http://www.vufind.org/" target="_blank" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/vufind_logo_small.png" alt="vufind-logo"></a>
+  <a href="http://www.vufind.org/" target="_blank" class="footerLogo"><img src="Finna%20-%20Haun%20aloitussivu_tiedostot/vufind_logo_small.png" alt="Tietoa Vufind-järjestelmästä"></a>
   
     </div>
 
