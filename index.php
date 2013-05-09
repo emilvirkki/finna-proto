@@ -219,7 +219,7 @@
 
   <div class="grid_24 drop">
     <a id="logo" href="/finna/" title="Etusivu">
-      <img src="Finna%20-%20Haun%20aloitussivu_tiedostot/customhomelogo.png" alt="">
+      <img src="Finna%20-%20Haun%20aloitussivu_tiedostot/customhomelogo.png" alt="Etusivu">
     </a>
   </div>
 
