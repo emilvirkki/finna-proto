@@ -356,7 +356,7 @@ fraasihaun voi tehdä kirjoittamalla hakusanat lainausmerkkeihin.</p>
         <h1 class="hidden-visually">Mikä Finna on?</h1>
         <p>Tietoa tarvitseville ja elämyksiä etsiville</p>
         <p>Finna on uudenlainen tiedonhakupalvelu kaikille arkistojen, kirjastojen ja museoiden palveluiden käyttäjille.</p>
-        <p>Finna on nyt testikäytössä. Kokeile hakua, <a href="/finna/Feedback/Home">anna palautetta</a> tai <a class="color-violet" href="/finna/Content/about">lue lisää</a> palvelusta!</p>
+        <p>Finna on nyt testikäytössä. Kokeile hakua, <a href="/finna/Feedback/Home">anna palautetta</a> tai <a class="color-violet" href="/finna/Content/about">lue lisää palvelusta</a>!</p>
       </div>
     </div>
     <div class="grid_10 push_right">
